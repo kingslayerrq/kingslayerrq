@@ -1,19 +1,42 @@
 ## Hi there 👋
 
-<!--
-**kingslayerrq/kingslayerrq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm passionate about software development, and I enjoy working with a variety of programming languages, tools, and technologies.
 
-Here are some ideas to get you started:
+### 🔭 I’m currently working on:
+- Developing a [web application](https://github.com/kingslayerrq/my-web)
+- Contributing to open-source projects
+- Experimenting with new technologies and frameworks
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 I’m currently learning:
+- Advanced Python techniques
+- Web development with React and Express
+- Exploring new areas in machine learning and artificial intelligence
+
+### 👯 I’m looking to collaborate on:
+- Full-stack development projects
+- Open-source initiatives
+- AR/VR development
+
+### 📫 How to reach me:
+- Email: [rq2014@nyu.edu](mailto:rq2014@nyu.edu)
+
+
+### 😄 Pronouns: He/Him
+
+### ⚡ Fun fact:
+- I love solving complex problems and building tools that make life easier. When I’m not coding, you’ll likely find me outdoors hiking or trying out new games.
+
+---
+
+### 📊 My GitHub Stats:
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=kingslayerrq&show_icons=true&theme=synthwave" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kingslayerrq&layout=donut&langs_count=8&card_width=320&theme=synthwave" />
+</a>
+
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
