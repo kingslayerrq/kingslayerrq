@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Richard Qu</h1>
 <h3 align="center">NYU CS major/ Game Design & Japanese minor</h3>
-### 😄 Pronouns: He/Him
+<h3 align="center">😄 Pronouns: He/Him</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kingslayerrq" alt="kingslayerrq" /></a> </p>
+<p align="center" justify-content="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kingslayerrq" alt="kingslayerrq" /></a> </p>
 
 - 🔭 I’m currently working on [my-web](https://kingslayerrq-web-7c4d8d7fe787.herokuapp.com/)
 
@@ -39,6 +39,14 @@
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kingslayerrq&layout=donut&langs_count=8&card_width=320&theme=synthwave" />
 </a>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
+
+_generated with [Platane/snk](https://github.com/Platane/snk)_
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-6%20mins-blue)
