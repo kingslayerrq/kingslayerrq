@@ -49,15 +49,13 @@
 _generated with [Platane/snk](https://github.com/Platane/snk)_
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-46%20hrs%2041%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-51%20hrs%2055%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 418.4 kB Used in GitHub's Storage 
- > 
-> 🏆 120 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -92,22 +90,23 @@ Sunday                   248 commits         █████░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-JavaScript               19 hrs 5 mins       ███████████████████████░░   91.45 % 
+JavaScript               19 hrs 8 mins       ███████████████████████░░   91.47 % 
 Prisma                   45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 % 
-Other                    21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
+Other                    21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
 YAML                     20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
 TOML                     15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
 
 🔥 Editors: 
-VS Code                  20 hrs 52 mins      █████████████████████████   99.99 % 
+VS Code                  20 hrs 55 mins      █████████████████████████   99.99 % 
 Rider                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🐱‍💻 Projects: 
-my-web                   20 hrs 52 mins      █████████████████████████   99.99 % 
+my-web                   20 hrs 52 mins      █████████████████████████   99.75 % 
+LeetHub                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
 Card                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 💻 Operating System: 
-Mac                      20 hrs 52 mins      █████████████████████████   100.00 % 
+Mac                      20 hrs 55 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -127,5 +126,5 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kingslayerrq/kingslayerrq/main/assets/bar_graph.png)
 
 
- Last Updated on 08/02/2025 18:40:14 UTC
+ Last Updated on 09/02/2025 18:40:27 UTC
 <!--END_SECTION:waka-->
