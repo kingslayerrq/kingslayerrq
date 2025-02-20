@@ -49,15 +49,13 @@
 _generated with [Platane/snk](https://github.com/Platane/snk)_
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-59%20hrs%2019%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-63%20hrs%2019%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 418.7 kB Used in GitHub's Storage 
- > 
-> 🏆 167 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -130,5 +128,5 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kingslayerrq/kingslayerrq/main/assets/bar_graph.png)
 
 
- Last Updated on 19/02/2025 18:44:23 UTC
+ Last Updated on 20/02/2025 18:44:55 UTC
 <!--END_SECTION:waka-->
