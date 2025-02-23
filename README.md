@@ -55,9 +55,7 @@ _generated with [Platane/snk](https://github.com/Platane/snk)_
 
 **🐱 My GitHub Data** 
 
-> 📦 418.7 kB Used in GitHub's Storage 
- > 
-> 🏆 167 Contributions in the Year 2025
+> 📦 418.6 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -130,5 +128,5 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kingslayerrq/kingslayerrq/main/assets/bar_graph.png)
 
 
- Last Updated on 22/02/2025 18:41:09 UTC
+ Last Updated on 23/02/2025 18:41:12 UTC
 <!--END_SECTION:waka-->
