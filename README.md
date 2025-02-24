@@ -4,7 +4,7 @@
 
 <p align="center" justify-content="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kingslayerrq" alt="kingslayerrq" /></a> </p>
 
-- 🔭 I’m currently working on [my-web](https://kingslayerrq-web-7c4d8d7fe787.herokuapp.com/)
+- 🔭 I’m currently working on [my-web](https://www.kingslayerrq.fyi)
 
 - 🌱 I’m currently learning **fullstack, jest, etc**
 
