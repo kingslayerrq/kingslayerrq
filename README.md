@@ -57,8 +57,6 @@ _generated with [Platane/snk](https://github.com/Platane/snk)_
 
 > 📦 418.6 kB Used in GitHub's Storage 
  > 
-> 🏆 170 Contributions in the Year 2025
- > 
 > 💼 Opted to Hire
  > 
 > 📜 18 Public Repositories 
@@ -125,5 +123,5 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kingslayerrq/kingslayerrq/main/assets/bar_graph.png)
 
 
- Last Updated on 27/02/2025 18:46:08 UTC
+ Last Updated on 28/02/2025 18:45:38 UTC
 <!--END_SECTION:waka-->
