@@ -57,6 +57,8 @@ _generated with [Platane/snk](https://github.com/Platane/snk)_
 
 > 📦 418.6 kB Used in GitHub's Storage 
  > 
+> 🏆 0 Contributions in the Year 2025
+ > 
 > 💼 Opted to Hire
  > 
 > 📜 18 Public Repositories 
@@ -90,20 +92,16 @@ Sunday                   270 commits         █████░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Other                    12 mins             ██████████░░░░░░░░░░░░░░░   38.06 % 
-TSConfig                 12 mins             █████████░░░░░░░░░░░░░░░░   37.79 % 
-JavaScript               3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.55 % 
-TypeScript               3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.43 % 
-JSON                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.18 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  34 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-kingslayerrq-portfolio   34 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  34 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -123,5 +121,5 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kingslayerrq/kingslayerrq/main/assets/bar_graph.png)
 
 
- Last Updated on 04/03/2025 18:46:27 UTC
+ Last Updated on 05/03/2025 18:46:36 UTC
 <!--END_SECTION:waka-->
