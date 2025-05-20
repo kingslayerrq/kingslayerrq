@@ -57,6 +57,8 @@ _generated with [Platane/snk](https://github.com/Platane/snk)_
 
 > 📦 421.7 kB Used in GitHub's Storage 
  > 
+> 🏆 189 Contributions in the Year 2025
+ > 
 > 💼 Opted to Hire
  > 
 > 📜 18 Public Repositories 
@@ -119,5 +121,5 @@ ShaderLab                2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kingslayerrq/kingslayerrq/main/assets/bar_graph.png)
 
 
- Last Updated on 19/05/2025 18:49:31 UTC
+ Last Updated on 20/05/2025 18:50:28 UTC
 <!--END_SECTION:waka-->
