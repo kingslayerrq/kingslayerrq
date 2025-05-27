@@ -49,13 +49,15 @@
 _generated with [Platane/snk](https://github.com/Platane/snk)_
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-131%20hrs%2011%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-132%20hrs%2028%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 430.9 kB Used in GitHub's Storage 
+ > 
+> 🏆 190 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -127,5 +129,5 @@ ShaderLab                2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kingslayerrq/kingslayerrq/main/assets/bar_graph.png)
 
 
- Last Updated on 26/05/2025 18:47:18 UTC
+ Last Updated on 27/05/2025 18:50:02 UTC
 <!--END_SECTION:waka-->
