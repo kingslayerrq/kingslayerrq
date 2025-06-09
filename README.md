@@ -57,8 +57,6 @@ _generated with [Platane/snk](https://github.com/Platane/snk)_
 
 > 📦 430.9 kB Used in GitHub's Storage 
  > 
-> 🏆 191 Contributions in the Year 2025
- > 
 > 💼 Opted to Hire
  > 
 > 📜 18 Public Repositories 
@@ -92,16 +90,16 @@ Sunday                   273 commits         █████░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-C#                       18 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Rider                    18 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Balatro-Clone            18 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  18 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in C#** 
@@ -121,5 +119,5 @@ ShaderLab                2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kingslayerrq/kingslayerrq/main/assets/bar_graph.png)
 
 
- Last Updated on 08/06/2025 18:48:00 UTC
+ Last Updated on 09/06/2025 18:49:33 UTC
 <!--END_SECTION:waka-->
