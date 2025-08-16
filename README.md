@@ -59,9 +59,9 @@ _generated with [Platane/snk](https://github.com/Platane/snk)_
  > 
 > 💼 Opted to Hire
  > 
-> 📜 19 Public Repositories 
+> 📜 21 Public Repositories 
  > 
-> 🔑 21 Private Repositories 
+> 🔑 19 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
@@ -119,5 +119,5 @@ ShaderLab                2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kingslayerrq/kingslayerrq/main/assets/bar_graph.png)
 
 
- Last Updated on 15/08/2025 18:52:18 UTC
+ Last Updated on 16/08/2025 18:47:47 UTC
 <!--END_SECTION:waka-->
