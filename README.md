@@ -90,16 +90,20 @@ Sunday                   273 commits         █████░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+C#                       22 mins             ████████████████████████░   97.09 % 
+GitIgnore file           0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Trae                     16 mins             █████████████████░░░░░░░░   69.57 % 
+Rider                    7 mins              ████████░░░░░░░░░░░░░░░░░   30.43 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Assets                   16 mins             █████████████████░░░░░░░░   69.57 % 
+07Viruxus                6 mins              ███████░░░░░░░░░░░░░░░░░░   27.53 % 
+Unknown Project          0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  23 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C#** 
@@ -119,5 +123,5 @@ ShaderLab                2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kingslayerrq/kingslayerrq/main/assets/bar_graph.png)
 
 
- Last Updated on 25/08/2025 18:50:54 UTC
+ Last Updated on 26/08/2025 18:48:25 UTC
 <!--END_SECTION:waka-->
