@@ -49,6 +49,8 @@
 _generated with [Platane/snk](https://github.com/Platane/snk)_
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-133%20hrs%2010%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -57,10 +59,49 @@ _generated with [Platane/snk](https://github.com/Platane/snk)_
  > 
 > 💼 Opted to Hire
  > 
-> 📜 21 Public Repositories 
+> 📜 22 Public Repositories 
  > 
 > 🔑 19 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                297 commits         █████░░░░░░░░░░░░░░░░░░░░   20.93 % 
+🌆 Daytime                459 commits         ████████░░░░░░░░░░░░░░░░░   32.35 % 
+🌃 Evening                528 commits         █████████░░░░░░░░░░░░░░░░   37.21 % 
+🌙 Night                  135 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.51 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   268 commits         █████░░░░░░░░░░░░░░░░░░░░   18.89 % 
+Tuesday                  126 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.88 % 
+Wednesday                206 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.52 % 
+Thursday                 261 commits         █████░░░░░░░░░░░░░░░░░░░░   18.39 % 
+Friday                   176 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.40 % 
+Saturday                 109 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.68 % 
+Sunday                   273 commits         █████░░░░░░░░░░░░░░░░░░░░   19.24 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/New_York
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in C#** 
 
 ```text
@@ -78,5 +119,5 @@ ShaderLab                2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kingslayerrq/kingslayerrq/main/assets/bar_graph.png)
 
 
- Last Updated on 16/09/2025 18:47:15 UTC
+ Last Updated on 17/09/2025 18:47:14 UTC
 <!--END_SECTION:waka-->
