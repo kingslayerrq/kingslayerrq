@@ -49,6 +49,8 @@
 _generated with [Platane/snk](https://github.com/Platane/snk)_
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-160%20hrs%2050%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -90,18 +92,17 @@ Sunday                   273 commits         █████░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-JavaScript               2 hrs 11 mins       ██████████████████████░░░   86.42 % 
-Other                    20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.48 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+JavaScript               1 hr 14 mins        ████████████████████░░░░░   81.33 % 
+Other                    17 mins             █████░░░░░░░░░░░░░░░░░░░░   18.67 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 32 mins       █████████████████████████   100.00 % 
+VS Code                  1 hr 31 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-ArtiskWebV2Backend       2 hrs 32 mins       █████████████████████████   100.00 % 
+ArtiskWebV2Backend       1 hr 31 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  2 hrs 32 mins       █████████████████████████   100.00 % 
+Windows                  1 hr 31 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -121,5 +122,5 @@ ShaderLab                2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kingslayerrq/kingslayerrq/main/assets/bar_graph.png)
 
 
- Last Updated on 15/10/2025 18:49:45 UTC
+ Last Updated on 16/10/2025 18:49:50 UTC
 <!--END_SECTION:waka-->
