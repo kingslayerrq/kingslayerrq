@@ -55,7 +55,7 @@ _generated with [Platane/snk](https://github.com/Platane/snk)_
 
 **🐱 My GitHub Data** 
 
-> 📦 431.4 kB Used in GitHub's Storage 
+> 📦 431.5 kB Used in GitHub's Storage 
  > 
 > 🏆 217 Contributions in the Year 2025
  > 
@@ -92,18 +92,18 @@ Sunday                   274 commits         █████░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-TypeScript               4 hrs 8 mins        ███████████████░░░░░░░░░░   60.30 % 
-JavaScript               2 hrs 43 mins       ██████████░░░░░░░░░░░░░░░   39.70 % 
+TypeScript               2 hrs 35 mins       ████████████████░░░░░░░░░   65.43 % 
+JavaScript               1 hr 21 mins        █████████░░░░░░░░░░░░░░░░   34.57 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 52 mins       █████████████████████████   100.00 % 
+VS Code                  3 hrs 56 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-ArtiskAdminFrontendV2    4 hrs 8 mins        ███████████████░░░░░░░░░░   60.30 % 
-ArtiskWebV2Backend       2 hrs 43 mins       ██████████░░░░░░░░░░░░░░░   39.70 % 
+ArtiskAdminFrontendV2    2 hrs 35 mins       ████████████████░░░░░░░░░   65.43 % 
+ArtiskWebV2Backend       1 hr 21 mins        █████████░░░░░░░░░░░░░░░░   34.57 % 
 
 💻 Operating System: 
-Windows                  6 hrs 52 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 56 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -123,5 +123,5 @@ ShaderLab                2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kingslayerrq/kingslayerrq/main/assets/bar_graph.png)
 
 
- Last Updated on 27/11/2025 18:49:31 UTC
+ Last Updated on 28/11/2025 18:49:04 UTC
 <!--END_SECTION:waka-->
