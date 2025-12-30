@@ -92,16 +92,17 @@ Sunday                   274 commits         █████░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Bash                     14 mins             ██████████████████████░░░   87.67 % 
+JavaScript               2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.33 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  16 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+ArtiskWebV2Backend       16 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  16 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -121,5 +122,5 @@ ShaderLab                2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kingslayerrq/kingslayerrq/main/assets/bar_graph.png)
 
 
- Last Updated on 29/12/2025 18:44:38 UTC
+ Last Updated on 30/12/2025 18:46:00 UTC
 <!--END_SECTION:waka-->
