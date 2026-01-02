@@ -49,15 +49,13 @@
 _generated with [Platane/snk](https://github.com/Platane/snk)_
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-254%20hrs%2021%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 431.8 kB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2026
+> 🏆 2 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -65,46 +63,6 @@ _generated with [Platane/snk](https://github.com/Platane/snk)_
  > 
 > 🔑 21 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                308 commits         █████░░░░░░░░░░░░░░░░░░░░   20.55 % 
-🌆 Daytime                494 commits         ████████░░░░░░░░░░░░░░░░░   32.96 % 
-🌃 Evening                561 commits         █████████░░░░░░░░░░░░░░░░   37.42 % 
-🌙 Night                  136 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.07 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   275 commits         █████░░░░░░░░░░░░░░░░░░░░   18.35 % 
-Tuesday                  157 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.47 % 
-Wednesday                220 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.68 % 
-Thursday                 285 commits         █████░░░░░░░░░░░░░░░░░░░░   19.01 % 
-Friday                   178 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.87 % 
-Saturday                 110 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 % 
-Sunday                   274 commits         █████░░░░░░░░░░░░░░░░░░░░   18.28 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/New_York
-
-💬 Programming Languages: 
-Bash                     14 mins             ██████████████████████░░░   87.67 % 
-JavaScript               2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.33 % 
-
-🔥 Editors: 
-VS Code                  16 mins             █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-ArtiskWebV2Backend       16 mins             █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Windows                  16 mins             █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -122,5 +80,5 @@ ShaderLab                2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kingslayerrq/kingslayerrq/main/assets/bar_graph.png)
 
 
- Last Updated on 01/01/2026 18:45:07 UTC
+ Last Updated on 02/01/2026 18:44:26 UTC
 <!--END_SECTION:waka-->
