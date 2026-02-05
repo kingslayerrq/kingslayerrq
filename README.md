@@ -49,7 +49,7 @@
 _generated with [Platane/snk](https://github.com/Platane/snk)_
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-287%20hrs%2047%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-288%20hrs%2039%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -92,17 +92,17 @@ Sunday                   277 commits         ████░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Python                   3 hrs 21 mins       █████████████████████████   99.58 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
+Python                   4 hrs 25 mins       █████████████████████████   99.68 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 22 mins       █████████████████████████   100.00 % 
+VS Code                  4 hrs 26 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-transformers-course      3 hrs 22 mins       █████████████████████████   100.00 % 
+transformers-course      4 hrs 26 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      3 hrs 22 mins       █████████████████████████   100.00 % 
+Mac                      4 hrs 26 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -122,5 +122,5 @@ ShaderLab                2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kingslayerrq/kingslayerrq/main/assets/bar_graph.png)
 
 
- Last Updated on 04/02/2026 18:48:46 UTC
+ Last Updated on 05/02/2026 18:48:36 UTC
 <!--END_SECTION:waka-->
