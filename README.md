@@ -49,7 +49,7 @@
 _generated with [Platane/snk](https://github.com/Platane/snk)_
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-384%20hrs%2035%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-386%20hrs%2047%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -92,18 +92,18 @@ Sunday                   394 commits         █████░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-C#                       26 hrs 21 mins      █████████████████████████   100.00 % 
+C#                       25 hrs 59 mins      █████████████████████████   100.00 % 
 ShaderLab                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-Rider                    26 hrs 21 mins      █████████████████████████   100.00 % 
+Rider                    25 hrs 59 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-2D                       25 hrs 8 mins       ████████████████████████░   95.35 % 
-CHORUS                   1 hr 13 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
+2D                       25 hrs 14 mins      ████████████████████████░   97.09 % 
+CHORUS                   45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
 
 💻 Operating System: 
-Windows                  26 hrs 21 mins      █████████████████████████   100.00 % 
+Windows                  25 hrs 59 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -123,5 +123,5 @@ ShaderLab                3 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kingslayerrq/kingslayerrq/main/assets/bar_graph.png)
 
 
- Last Updated on 28/03/2026 18:47:24 UTC
+ Last Updated on 29/03/2026 18:47:25 UTC
 <!--END_SECTION:waka-->
