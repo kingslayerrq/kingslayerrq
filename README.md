@@ -49,7 +49,7 @@
 _generated with [Platane/snk](https://github.com/Platane/snk)_
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-482%20hrs%2018%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-484%20hrs%208%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
 
@@ -57,7 +57,7 @@ _generated with [Platane/snk](https://github.com/Platane/snk)_
 
 > 📦 511.6 kB Used in GitHub's Storage 
  > 
-> 🏆 178 Contributions in the Year 2026
+> 🏆 181 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -65,50 +65,6 @@ _generated with [Platane/snk](https://github.com/Platane/snk)_
  > 
 > 🔑 24 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                409 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.81 % 
-🌆 Daytime                775 commits         ████████░░░░░░░░░░░░░░░░░   33.75 % 
-🌃 Evening                886 commits         ██████████░░░░░░░░░░░░░░░   38.59 % 
-🌙 Night                  226 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.84 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   564 commits         ██████░░░░░░░░░░░░░░░░░░░   24.56 % 
-Tuesday                  299 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.02 % 
-Wednesday                259 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.28 % 
-Thursday                 304 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.24 % 
-Friday                   256 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.15 % 
-Saturday                 181 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.88 % 
-Sunday                   433 commits         █████░░░░░░░░░░░░░░░░░░░░   18.86 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/New_York
-
-💬 Programming Languages: 
-C#                       15 hrs 21 mins      ███████████████████████░░   91.72 % 
-Other                    1 hr 15 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 % 
-Unity3D Asset            4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
-GLSL                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
-
-🔥 Editors: 
-Rider                    14 hrs 12 mins      █████████████████████░░░░   84.87 % 
-Unknown Editor           2 hrs 32 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.13 % 
-
-🐱‍💻 Projects: 
-My project               16 hrs 45 mins      █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Windows                  16 hrs 45 mins      █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -126,5 +82,5 @@ TypeScript               4 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kingslayerrq/kingslayerrq/main/assets/bar_graph.png)
 
 
- Last Updated on 13/05/2026 19:10:08 UTC
+ Last Updated on 14/05/2026 19:09:43 UTC
 <!--END_SECTION:waka-->
