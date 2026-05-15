@@ -49,15 +49,13 @@
 _generated with [Platane/snk](https://github.com/Platane/snk)_
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-484%20hrs%208%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 511.6 kB Used in GitHub's Storage 
+> 📦 512.3 kB Used in GitHub's Storage 
  > 
-> 🏆 181 Contributions in the Year 2026
+> 🏆 187 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -65,14 +63,14 @@ _generated with [Platane/snk](https://github.com/Platane/snk)_
  > 
 > 🔑 24 Private Repositories 
  > 
-**I Mostly Code in Python** 
+**I Mostly Code in C#** 
 
 ```text
+C#                       11 repos            ██████░░░░░░░░░░░░░░░░░░░   23.40 % 
 Python                   11 repos            ██████░░░░░░░░░░░░░░░░░░░   23.40 % 
-C#                       10 repos            █████░░░░░░░░░░░░░░░░░░░░   21.28 % 
 JavaScript               8 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.02 % 
-ShaderLab                4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 % 
 TypeScript               4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 % 
+ShaderLab                3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.38 % 
 ```
 
 
@@ -82,5 +80,5 @@ TypeScript               4 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kingslayerrq/kingslayerrq/main/assets/bar_graph.png)
 
 
- Last Updated on 14/05/2026 19:09:43 UTC
+ Last Updated on 15/05/2026 19:05:13 UTC
 <!--END_SECTION:waka-->
