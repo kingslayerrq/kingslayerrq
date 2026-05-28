@@ -49,8 +49,6 @@
 _generated with [Platane/snk](https://github.com/Platane/snk)_
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-512%20hrs%2039%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -65,46 +63,6 @@ _generated with [Platane/snk](https://github.com/Platane/snk)_
  > 
 > 🔑 23 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                397 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.34 % 
-🌆 Daytime                785 commits         █████████░░░░░░░░░░░░░░░░   34.28 % 
-🌃 Evening                875 commits         ██████████░░░░░░░░░░░░░░░   38.21 % 
-🌙 Night                  233 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.17 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   563 commits         ██████░░░░░░░░░░░░░░░░░░░   24.59 % 
-Tuesday                  296 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.93 % 
-Wednesday                254 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.09 % 
-Thursday                 303 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.23 % 
-Friday                   250 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.92 % 
-Saturday                 204 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.91 % 
-Sunday                   420 commits         █████░░░░░░░░░░░░░░░░░░░░   18.34 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/New_York
-
-💬 Programming Languages: 
-C#                       14 mins             ████████████████████░░░░░   80.22 % 
-ShaderLab                3 mins              █████░░░░░░░░░░░░░░░░░░░░   19.78 % 
-
-🔥 Editors: 
-Rider                    18 mins             █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-2D                       18 mins             █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Windows                  18 mins             █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in C#** 
 
 ```text
@@ -122,5 +80,5 @@ ShaderLab                3 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kingslayerrq/kingslayerrq/main/assets/bar_graph.png)
 
 
- Last Updated on 27/05/2026 19:19:41 UTC
+ Last Updated on 28/05/2026 19:26:00 UTC
 <!--END_SECTION:waka-->
