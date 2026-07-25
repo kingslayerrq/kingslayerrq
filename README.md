@@ -49,6 +49,8 @@
 _generated with [Platane/snk](https://github.com/Platane/snk)_
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-531%20hrs%2011%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -90,20 +92,19 @@ Sunday                   421 commits         █████░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-C                        16 mins             ███████████████████████░░   91.96 % 
-Markdown                 1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   07.54 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
-Makefile                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+C                        8 mins              ████████████████████████░   94.42 % 
+Markdown                 0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
+Makefile                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
 
 🔥 Editors: 
-VS Code                  17 mins             █████████████████████████   100.00 % 
+VS Code                  8 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-C                        8 mins              █████████████░░░░░░░░░░░░   50.17 % 
-max                      8 mins              ████████████░░░░░░░░░░░░░   49.83 % 
+C                        8 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  17 mins             █████████████████████████   100.00 % 
+Windows                  8 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C#** 
@@ -123,5 +124,5 @@ ShaderLab                3 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kingslayerrq/kingslayerrq/main/assets/bar_graph.png)
 
 
- Last Updated on 24/07/2026 19:55:52 UTC
+ Last Updated on 25/07/2026 19:43:52 UTC
 <!--END_SECTION:waka-->
