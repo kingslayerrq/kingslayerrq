@@ -49,7 +49,9 @@
 _generated with [Platane/snk](https://github.com/Platane/snk)_
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-531%20hrs%2011%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-523%20hrs%206%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-57%20hrs%2028%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -92,19 +94,28 @@ Sunday                   425 commits         █████░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-C                        8 mins              ████████████████████████░   94.42 % 
-Markdown                 0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
-Makefile                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+C#                       1 hr 55 mins        ███████████████░░░░░░░░░░   61.08 % 
+C                        1 hr 6 mins         █████████░░░░░░░░░░░░░░░░   35.22 % 
+Text                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
+Makefile                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
 
 🔥 Editors: 
-VS Code                  8 mins              █████████████████████████   100.00 % 
+Rider                    1 hr 55 mins        ███████████████░░░░░░░░░░   61.08 % 
+VS Code                  1 hr 13 mins        ██████████░░░░░░░░░░░░░░░   38.92 % 
 
 🐱‍💻 Projects: 
-C                        8 mins              █████████████████████████   100.00 % 
+2D                       1 hr 55 mins        ███████████████░░░░░░░░░░   61.08 % 
+C                        1 hr 13 mins        ██████████░░░░░░░░░░░░░░░   38.92 % 
 
 💻 Operating System: 
-Windows                  8 mins              █████████████████████████   100.00 % 
+Windows                  3 hrs 8 mins        █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in C#** 
@@ -124,5 +135,5 @@ ShaderLab                3 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kingslayerrq/kingslayerrq/main/assets/bar_graph.png)
 
 
- Last Updated on 26/07/2026 19:44:13 UTC
+ Last Updated on 27/07/2026 20:04:58 UTC
 <!--END_SECTION:waka-->
