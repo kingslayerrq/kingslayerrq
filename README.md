@@ -49,15 +49,11 @@
 _generated with [Platane/snk](https://github.com/Platane/snk)_
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-523%20hrs%206%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-57%20hrs%2028%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 544.2 kB Used in GitHub's Storage 
+> 📦 544.3 kB Used in GitHub's Storage 
  > 
 > 🏆 274 Contributions in the Year 2026
  > 
@@ -94,28 +90,45 @@ Sunday                   425 commits         █████░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-C#                       1 hr 55 mins        ███████████████░░░░░░░░░░   61.08 % 
-C                        1 hr 6 mins         █████████░░░░░░░░░░░░░░░░   35.22 % 
-Text                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
-Makefile                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+C#                       4 hrs 44 mins       ████████████████████░░░░░   79.47 % 
+C                        1 hr 6 mins         █████░░░░░░░░░░░░░░░░░░░░   18.57 % 
+Text                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
+Makefile                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 
 🔥 Editors: 
-Rider                    1 hr 55 mins        ███████████████░░░░░░░░░░   61.08 % 
-VS Code                  1 hr 13 mins        ██████████░░░░░░░░░░░░░░░   38.92 % 
+Rider                    3 hrs 55 mins       ████████████████░░░░░░░░░   65.79 % 
+VS Code                  2 hrs 2 mins        █████████░░░░░░░░░░░░░░░░   34.21 % 
 
 🐱‍💻 Projects: 
-2D                       1 hr 55 mins        ███████████████░░░░░░░░░░   61.08 % 
-C                        1 hr 13 mins        ██████████░░░░░░░░░░░░░░░   38.92 % 
+2D                       4 hrs 32 mins       ███████████████████░░░░░░   76.14 % 
+C                        1 hr 13 mins        █████░░░░░░░░░░░░░░░░░░░░   20.53 % 
+sdk                      11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 % 
 
 💻 Operating System: 
-Windows                  3 hrs 8 mins        █████████████████████████   100.00 % 
+Windows                  5 hrs 58 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 1 hr 4 mins (18.15%)
+
+✍️ 491 lines written by AI, 703 lines written by hand (41.12% AI-written)
+
+🔤 11,698,112 Input Tokens, 110,719 Output Tokens
+
+💵 $61.81 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 11 AI Prompts
+
+GPT                      491 lines           █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+⚖️ Balanced with AI — 41.12% of written lines came from AI
+📄 Detailed Prompter — average 525 characters per prompt
+🔁 Iterative Prompter — average 11 prompts per session
+🔍 Hands-On Reviewer — 62.23% of changed lines were hand-edited
 ```
 
 **I Mostly Code in C#** 
@@ -135,5 +148,5 @@ ShaderLab                3 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kingslayerrq/kingslayerrq/main/assets/bar_graph.png)
 
 
- Last Updated on 27/07/2026 20:04:58 UTC
+ Last Updated on 28/07/2026 20:01:56 UTC
 <!--END_SECTION:waka-->
