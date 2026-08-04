@@ -59,7 +59,7 @@ _generated with [Platane/snk](https://github.com/Platane/snk)_
 
 > 📦 726.0 kB Used in GitHub's Storage 
  > 
-> 🏆 277 Contributions in the Year 2026
+> 🏆 280 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -70,21 +70,21 @@ _generated with [Platane/snk](https://github.com/Platane/snk)_
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                398 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.27 % 
-🌆 Daytime                794 commits         █████████░░░░░░░░░░░░░░░░   34.45 % 
-🌃 Evening                880 commits         ██████████░░░░░░░░░░░░░░░   38.18 % 
-🌙 Night                  233 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.11 % 
+🌞 Morning                399 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.29 % 
+🌆 Daytime                796 commits         █████████░░░░░░░░░░░░░░░░   34.49 % 
+🌃 Evening                880 commits         ██████████░░░░░░░░░░░░░░░   38.13 % 
+🌙 Night                  233 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.10 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   567 commits         ██████░░░░░░░░░░░░░░░░░░░   24.60 % 
-Tuesday                  297 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.89 % 
-Wednesday                255 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.06 % 
-Thursday                 305 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.23 % 
-Friday                   251 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.89 % 
-Saturday                 205 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.89 % 
-Sunday                   425 commits         █████░░░░░░░░░░░░░░░░░░░░   18.44 % 
+Monday                   567 commits         ██████░░░░░░░░░░░░░░░░░░░   24.57 % 
+Tuesday                  300 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.00 % 
+Wednesday                255 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.05 % 
+Thursday                 305 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.21 % 
+Friday                   251 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.88 % 
+Saturday                 205 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.88 % 
+Sunday                   425 commits         █████░░░░░░░░░░░░░░░░░░░░   18.41 % 
 ```
 
 
@@ -94,49 +94,47 @@ Sunday                   425 commits         █████░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-C#                       14 hrs 11 mins      ██████████████████████░░░   89.69 % 
-C                        58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.14 % 
-GitIgnore file           12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
-XML                      10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
-Unity3D Asset            9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
+C#                       10 hrs 24 mins      ████████████████████████░   94.93 % 
+GitIgnore file           12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
+XML                      10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
+Unity3D Asset            9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
+C                        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🔥 Editors: 
-Rider                    11 hrs 51 mins      ███████████████████░░░░░░   74.92 % 
-VS Code                  3 hrs 58 mins       ██████░░░░░░░░░░░░░░░░░░░   25.08 % 
+Rider                    8 hrs 54 mins       ████████████████████░░░░░   81.22 % 
+VS Code                  2 hrs 3 mins        █████░░░░░░░░░░░░░░░░░░░░   18.78 % 
 
 🐱‍💻 Projects: 
-2D                       14 hrs 4 mins       ██████████████████████░░░   88.92 % 
-C                        1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.80 % 
-Unity-2D                 28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
-sdk                      11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
-Duke_Programming_Bootcamp0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+2D                       9 hrs 27 mins       ██████████████████████░░░   86.33 % 
+Unity-2D                 1 hr 29 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.63 % 
+Duke_Programming_Bootcamp0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 💻 Operating System: 
-Windows                  15 hrs 20 mins      ████████████████████████░   96.97 % 
-Mac                      28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
+Windows                  9 hrs 27 mins       ██████████████████████░░░   86.33 % 
+Mac                      1 hr 29 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.67 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 50 mins (24.32%)
+⏱ AI Coding Time: 2 hrs 42 mins (24.77%)
 
-✍️ 2,738 lines written by AI, 2,899 lines written by hand (48.57% AI-written)
+✍️ 2,246 lines written by AI, 2,328 lines written by hand (49.1% AI-written)
 
-🔤 56,266,241 Input Tokens, 511,664 Output Tokens
+🔤 36,042,005 Input Tokens, 387,938 Output Tokens
 
-💵 $296.07 Estimated AI Cost This Week
+💵 $191.24 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 27 AI Prompts
+🧠 3 AI Sessions, 15 AI Prompts
 
-GPT                      2,812 lines         █████████████████████████   100.00 % 
+GPT                      2,320 lines         █████████████████████████   100.00 % 
 Vscode-Wakatime          0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 48.57% of written lines came from AI
-📄 Detailed Prompter — average 573 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🔍 Hands-On Reviewer — 55.9% of changed lines were hand-edited
+⚖️ Balanced with AI — 49.1% of written lines came from AI
+📄 Detailed Prompter — average 642 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🔍 Hands-On Reviewer — 55.65% of changed lines were hand-edited
 ```
 
 **I Mostly Code in C#** 
@@ -156,5 +154,5 @@ ShaderLab                3 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kingslayerrq/kingslayerrq/main/assets/bar_graph.png)
 
 
- Last Updated on 02/08/2026 19:44:09 UTC
+ Last Updated on 04/08/2026 20:09:57 UTC
 <!--END_SECTION:waka-->
