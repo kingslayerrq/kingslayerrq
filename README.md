@@ -49,17 +49,13 @@
 _generated with [Platane/snk](https://github.com/Platane/snk)_
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-539%20hrs%2057%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-61%20hrs%2018%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 726.0 kB Used in GitHub's Storage 
+> 📦 726.3 kB Used in GitHub's Storage 
  > 
-> 🏆 280 Contributions in the Year 2026
+> 🏆 281 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -70,19 +66,19 @@ _generated with [Platane/snk](https://github.com/Platane/snk)_
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                399 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.29 % 
-🌆 Daytime                796 commits         █████████░░░░░░░░░░░░░░░░   34.49 % 
-🌃 Evening                880 commits         ██████████░░░░░░░░░░░░░░░   38.13 % 
-🌙 Night                  233 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.10 % 
+🌞 Morning                399 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.28 % 
+🌆 Daytime                796 commits         █████████░░░░░░░░░░░░░░░░   34.47 % 
+🌃 Evening                881 commits         ██████████░░░░░░░░░░░░░░░   38.16 % 
+🌙 Night                  233 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.09 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   567 commits         ██████░░░░░░░░░░░░░░░░░░░   24.57 % 
-Tuesday                  300 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.00 % 
-Wednesday                255 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.05 % 
-Thursday                 305 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.21 % 
-Friday                   251 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.88 % 
+Monday                   567 commits         ██████░░░░░░░░░░░░░░░░░░░   24.56 % 
+Tuesday                  300 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.99 % 
+Wednesday                255 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.04 % 
+Thursday                 306 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.25 % 
+Friday                   251 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.87 % 
 Saturday                 205 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.88 % 
 Sunday                   425 commits         █████░░░░░░░░░░░░░░░░░░░░   18.41 % 
 ```
@@ -94,43 +90,42 @@ Sunday                   425 commits         █████░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-C#                       4 hrs 22 mins       ██████████████████████░░░   87.53 % 
-C                        24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 % 
-GitIgnore file           12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
+C#                       1 hr 16 mins        █████████████████░░░░░░░░   67.24 % 
+C                        24 mins             █████░░░░░░░░░░░░░░░░░░░░   21.56 % 
+GitIgnore file           12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.20 % 
 
 🔥 Editors: 
-Rider                    4 hrs 5 mins        ████████████████████░░░░░   81.68 % 
-VS Code                  54 mins             █████░░░░░░░░░░░░░░░░░░░░   18.32 % 
+Rider                    1 hr 22 mins        ██████████████████░░░░░░░   72.20 % 
+VS Code                  31 mins             ███████░░░░░░░░░░░░░░░░░░   27.80 % 
 
 🐱‍💻 Projects: 
-2D                       3 hrs 5 mins        ███████████████░░░░░░░░░░   61.92 % 
-Unity-2D                 1 hr 29 mins        ███████░░░░░░░░░░░░░░░░░░   29.87 % 
-Duke_Programming_Bootcamp24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 % 
+Unity-2D                 1 hr 29 mins        ████████████████████░░░░░   78.44 % 
+Duke_Programming_Bootcamp24 mins             █████░░░░░░░░░░░░░░░░░░░░   21.56 % 
 
 💻 Operating System: 
-Windows                  3 hrs 30 mins       ██████████████████░░░░░░░   70.04 % 
-Mac                      1 hr 29 mins        ███████░░░░░░░░░░░░░░░░░░   29.96 % 
+Mac                      1 hr 29 mins        ████████████████████░░░░░   78.67 % 
+Windows                  24 mins             █████░░░░░░░░░░░░░░░░░░░░   21.33 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 47 mins (15.97%)
+⏱ AI Coding Time: 7 mins (6.37%)
 
-✍️ 0 lines written by AI, 791 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 179 lines written by hand (0.0% AI-written)
 
-🔤 6,409,302 Input Tokens, 213,348 Output Tokens
+🔤 668,891 Input Tokens, 29,071 Output Tokens
 
-💵 $39.40 Estimated AI Cost This Week
+💵 $5.16 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 5 AI Prompts
+🧠 1 AI Sessions, 1 AI Prompts
 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📄 Detailed Prompter — average 511 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
+📝 Concise Prompter — average 357 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
@@ -151,5 +146,5 @@ ShaderLab                3 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kingslayerrq/kingslayerrq/main/assets/bar_graph.png)
 
 
- Last Updated on 05/08/2026 20:08:15 UTC
+ Last Updated on 07/08/2026 00:24:20 UTC
 <!--END_SECTION:waka-->
