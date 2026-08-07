@@ -49,13 +49,17 @@
 _generated with [Platane/snk](https://github.com/Platane/snk)_
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-541%20hrs-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-61%20hrs%2057%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 726.3 kB Used in GitHub's Storage 
+> 📦 726.1 kB Used in GitHub's Storage 
  > 
-> 🏆 281 Contributions in the Year 2026
+> 🏆 283 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -66,21 +70,21 @@ _generated with [Platane/snk](https://github.com/Platane/snk)_
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                399 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.28 % 
-🌆 Daytime                796 commits         █████████░░░░░░░░░░░░░░░░   34.47 % 
-🌃 Evening                881 commits         ██████████░░░░░░░░░░░░░░░   38.16 % 
-🌙 Night                  233 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.09 % 
+🌞 Morning                401 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.35 % 
+🌆 Daytime                796 commits         █████████░░░░░░░░░░░░░░░░   34.44 % 
+🌃 Evening                881 commits         ██████████░░░░░░░░░░░░░░░   38.12 % 
+🌙 Night                  233 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.08 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   567 commits         ██████░░░░░░░░░░░░░░░░░░░   24.56 % 
-Tuesday                  300 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.99 % 
-Wednesday                255 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.04 % 
-Thursday                 306 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.25 % 
-Friday                   251 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.87 % 
-Saturday                 205 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.88 % 
-Sunday                   425 commits         █████░░░░░░░░░░░░░░░░░░░░   18.41 % 
+Monday                   567 commits         ██████░░░░░░░░░░░░░░░░░░░   24.53 % 
+Tuesday                  300 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.98 % 
+Wednesday                255 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.03 % 
+Thursday                 306 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.24 % 
+Friday                   253 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.95 % 
+Saturday                 205 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.87 % 
+Sunday                   425 commits         █████░░░░░░░░░░░░░░░░░░░░   18.39 % 
 ```
 
 
@@ -90,43 +94,49 @@ Sunday                   425 commits         █████░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-C#                       1 hr 16 mins        █████████████████░░░░░░░░   67.24 % 
-C                        24 mins             █████░░░░░░░░░░░░░░░░░░░░   21.56 % 
-GitIgnore file           12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.20 % 
+C#                       2 hrs 19 mins       ███████████████░░░░░░░░░░   61.27 % 
+C                        46 mins             █████░░░░░░░░░░░░░░░░░░░░   20.67 % 
+Unity3D Asset            37 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.38 % 
+JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
+PowerShell               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
 
 🔥 Editors: 
-Rider                    1 hr 22 mins        ██████████████████░░░░░░░   72.20 % 
-VS Code                  31 mins             ███████░░░░░░░░░░░░░░░░░░   27.80 % 
+Rider                    1 hr 54 mins        █████████████░░░░░░░░░░░░   50.38 % 
+VS Code                  1 hr 52 mins        ████████████░░░░░░░░░░░░░   49.62 % 
 
 🐱‍💻 Projects: 
-Unity-2D                 1 hr 29 mins        ████████████████████░░░░░   78.44 % 
-Duke_Programming_Bootcamp24 mins             █████░░░░░░░░░░░░░░░░░░░░   21.56 % 
+2D                       1 hr 55 mins        █████████████░░░░░░░░░░░░   50.76 % 
+Unity-2D                 1 hr 1 min          ███████░░░░░░░░░░░░░░░░░░   26.90 % 
+Bootcamp_C               25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.03 % 
+Duke_Programming_Bootcamp24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.72 % 
+DukeProgrammingBootcamp  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
 
 💻 Operating System: 
-Mac                      1 hr 29 mins        ████████████████████░░░░░   78.67 % 
-Windows                  24 mins             █████░░░░░░░░░░░░░░░░░░░░   21.33 % 
+Windows                  2 hrs 46 mins       ██████████████████░░░░░░░   73.10 % 
+Mac                      1 hr 1 min          ███████░░░░░░░░░░░░░░░░░░   26.90 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 mins (6.37%)
+⏱ AI Coding Time: 1 hr 8 mins (30.09%)
 
-✍️ 0 lines written by AI, 179 lines written by hand (0.0% AI-written)
+✍️ 254 lines written by AI, 224 lines written by hand (53.14% AI-written)
 
-🔤 668,891 Input Tokens, 29,071 Output Tokens
+🔤 8,533,640 Input Tokens, 47,782 Output Tokens
 
-💵 $5.16 Estimated AI Cost This Week
+💵 $42.82 Estimated AI Cost This Week
 
-🧠 1 AI Sessions, 1 AI Prompts
+🧠 2 AI Sessions, 6 AI Prompts
 
-GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+GPT                      254 lines           █████████████████████████   100.00 % 
+Vscode-Wakatime          0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 357 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+⚖️ Balanced with AI — 53.14% of written lines came from AI
+📄 Detailed Prompter — average 546 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🔍 Hands-On Reviewer — 51.53% of changed lines were hand-edited
 ```
 
 **I Mostly Code in C#** 
@@ -146,5 +156,5 @@ ShaderLab                3 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kingslayerrq/kingslayerrq/main/assets/bar_graph.png)
 
 
- Last Updated on 07/08/2026 00:24:20 UTC
+ Last Updated on 07/08/2026 19:29:53 UTC
 <!--END_SECTION:waka-->
