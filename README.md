@@ -49,15 +49,15 @@
 _generated with [Platane/snk](https://github.com/Platane/snk)_
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-541%20hrs-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-542%20hrs%2042%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-61%20hrs%2057%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-62%20hrs%2027%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 726.1 kB Used in GitHub's Storage 
+> 📦 726.0 kB Used in GitHub's Storage 
  > 
 > 🏆 283 Contributions in the Year 2026
  > 
@@ -94,49 +94,49 @@ Sunday                   425 commits         █████░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-C#                       2 hrs 19 mins       ███████████████░░░░░░░░░░   61.27 % 
-C                        46 mins             █████░░░░░░░░░░░░░░░░░░░░   20.67 % 
-Unity3D Asset            37 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.38 % 
-JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
-PowerShell               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
+C#                       3 hrs 4 mins        █████████████████░░░░░░░░   66.67 % 
+C                        46 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.01 % 
+Unity3D Asset            37 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.48 % 
+YAML                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
+JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
 
 🔥 Editors: 
-Rider                    1 hr 54 mins        █████████████░░░░░░░░░░░░   50.38 % 
-VS Code                  1 hr 52 mins        ████████████░░░░░░░░░░░░░   49.62 % 
+Rider                    2 hrs 39 mins       ██████████████░░░░░░░░░░░   57.71 % 
+VS Code                  1 hr 56 mins        ███████████░░░░░░░░░░░░░░   42.29 % 
 
 🐱‍💻 Projects: 
-2D                       1 hr 55 mins        █████████████░░░░░░░░░░░░   50.76 % 
-Unity-2D                 1 hr 1 min          ███████░░░░░░░░░░░░░░░░░░   26.90 % 
-Bootcamp_C               25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.03 % 
-Duke_Programming_Bootcamp24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.72 % 
-DukeProgrammingBootcamp  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
+2D                       2 hrs 44 mins       ███████████████░░░░░░░░░░   59.48 % 
+Unity-2D                 1 hr 1 min          ██████░░░░░░░░░░░░░░░░░░░   22.13 % 
+Bootcamp_C               25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.08 % 
+Duke_Programming_Bootcamp24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
+DukeProgrammingBootcamp  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
 
 💻 Operating System: 
-Windows                  2 hrs 46 mins       ██████████████████░░░░░░░   73.10 % 
-Mac                      1 hr 1 min          ███████░░░░░░░░░░░░░░░░░░   26.90 % 
+Windows                  3 hrs 35 mins       ███████████████████░░░░░░   77.87 % 
+Mac                      1 hr 1 min          ██████░░░░░░░░░░░░░░░░░░░   22.13 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 8 mins (30.09%)
+⏱ AI Coding Time: 1 hr 9 mins (25.13%)
 
-✍️ 254 lines written by AI, 224 lines written by hand (53.14% AI-written)
+✍️ 254 lines written by AI, 252 lines written by hand (50.2% AI-written)
 
-🔤 8,533,640 Input Tokens, 47,782 Output Tokens
+🔤 8,583,827 Input Tokens, 50,480 Output Tokens
 
-💵 $42.82 Estimated AI Cost This Week
+💵 $43.27 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 6 AI Prompts
+🧠 3 AI Sessions, 8 AI Prompts
 
 GPT                      254 lines           █████████████████████████   100.00 % 
 Vscode-Wakatime          0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 53.14% of written lines came from AI
-📄 Detailed Prompter — average 546 characters per prompt
+⚖️ Balanced with AI — 50.2% of written lines came from AI
+📄 Detailed Prompter — average 630 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🔍 Hands-On Reviewer — 51.53% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 56.36% of changed lines were hand-edited
 ```
 
 **I Mostly Code in C#** 
@@ -156,5 +156,5 @@ ShaderLab                3 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kingslayerrq/kingslayerrq/main/assets/bar_graph.png)
 
 
- Last Updated on 07/08/2026 19:29:53 UTC
+ Last Updated on 08/08/2026 19:08:55 UTC
 <!--END_SECTION:waka-->
