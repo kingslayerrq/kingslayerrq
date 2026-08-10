@@ -94,32 +94,31 @@ Sunday                   425 commits         █████░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-C#                       3 hrs 4 mins        █████████████████░░░░░░░░   66.67 % 
-C                        46 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.01 % 
-Unity3D Asset            37 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.48 % 
+C#                       3 hrs 4 mins        █████████████████░░░░░░░░   67.00 % 
+C                        46 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.09 % 
+Unity3D Asset            37 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.55 % 
 YAML                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
 JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
 
 🔥 Editors: 
-Rider                    2 hrs 39 mins       ██████████████░░░░░░░░░░░   57.71 % 
-VS Code                  1 hr 56 mins        ███████████░░░░░░░░░░░░░░   42.29 % 
+Rider                    2 hrs 39 mins       ██████████████░░░░░░░░░░░   58.00 % 
+VS Code                  1 hr 55 mins        ██████████░░░░░░░░░░░░░░░   42.00 % 
 
 🐱‍💻 Projects: 
-2D                       2 hrs 44 mins       ███████████████░░░░░░░░░░   59.48 % 
-Unity-2D                 1 hr 1 min          ██████░░░░░░░░░░░░░░░░░░░   22.13 % 
-Bootcamp_C               25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.08 % 
-Duke_Programming_Bootcamp24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
-DukeProgrammingBootcamp  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
+2D                       2 hrs 44 mins       ███████████████░░░░░░░░░░   59.77 % 
+Unity-2D                 1 hr 1 min          ██████░░░░░░░░░░░░░░░░░░░   22.24 % 
+Bootcamp_C               25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.12 % 
+Duke_Programming_Bootcamp24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.86 % 
 
 💻 Operating System: 
-Windows                  3 hrs 35 mins       ███████████████████░░░░░░   77.87 % 
-Mac                      1 hr 1 min          ██████░░░░░░░░░░░░░░░░░░░   22.13 % 
+Windows                  3 hrs 33 mins       ███████████████████░░░░░░   77.76 % 
+Mac                      1 hr 1 min          ██████░░░░░░░░░░░░░░░░░░░   22.24 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 9 mins (25.13%)
+⏱ AI Coding Time: 1 hr 9 mins (25.25%)
 
 ✍️ 254 lines written by AI, 252 lines written by hand (50.2% AI-written)
 
@@ -156,5 +155,5 @@ ShaderLab                3 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kingslayerrq/kingslayerrq/main/assets/bar_graph.png)
 
 
- Last Updated on 09/08/2026 19:12:13 UTC
+ Last Updated on 10/08/2026 19:31:22 UTC
 <!--END_SECTION:waka-->
