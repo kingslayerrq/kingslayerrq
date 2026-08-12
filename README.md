@@ -94,31 +94,30 @@ Sunday                   425 commits         █████░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-C#                       2 hrs 3 mins        ██████████████░░░░░░░░░░░   57.56 % 
-C                        46 mins             █████░░░░░░░░░░░░░░░░░░░░   21.98 % 
-Unity3D Asset            37 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.42 % 
-YAML                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
-JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
+C#                       2 hrs 3 mins        ████████████████░░░░░░░░░   64.97 % 
+Unity3D Asset            37 mins             █████░░░░░░░░░░░░░░░░░░░░   19.67 % 
+C                        22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.94 % 
+YAML                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
+JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
 
 🔥 Editors: 
-VS Code                  1 hr 55 mins        ██████████████░░░░░░░░░░░   54.02 % 
-Rider                    1 hr 38 mins        ███████████░░░░░░░░░░░░░░   45.98 % 
+Rider                    1 hr 38 mins        █████████████░░░░░░░░░░░░   51.89 % 
+VS Code                  1 hr 31 mins        ████████████░░░░░░░░░░░░░   48.11 % 
 
 🐱‍💻 Projects: 
-2D                       2 hrs 44 mins       ███████████████████░░░░░░   76.87 % 
-Bootcamp_C               25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.73 % 
-Duke_Programming_Bootcamp24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.40 % 
+2D                       2 hrs 44 mins       ██████████████████████░░░   86.76 % 
+Bootcamp_C               25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.24 % 
 
 💻 Operating System: 
-Windows                  3 hrs 33 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 9 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 9 mins (32.48%)
+⏱ AI Coding Time: 1 hr 9 mins (36.66%)
 
-✍️ 254 lines written by AI, 121 lines written by hand (67.73% AI-written)
+✍️ 254 lines written by AI, 93 lines written by hand (73.2% AI-written)
 
 🔤 8,583,827 Input Tokens, 50,480 Output Tokens
 
@@ -130,10 +129,10 @@ GPT                      254 lines           ███████████�
 Vscode-Wakatime          0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 67.73% of written lines came from AI
+🤖 AI-Driven — 73.2% of written lines came from AI
 📄 Detailed Prompter — average 630 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 40.65% of changed lines were hand-edited
+🚀 High AI Trust — 36.5% of changed lines were hand-edited
 ```
 
 **I Mostly Code in C#** 
@@ -153,5 +152,5 @@ ShaderLab                3 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kingslayerrq/kingslayerrq/main/assets/bar_graph.png)
 
 
- Last Updated on 11/08/2026 19:35:31 UTC
+ Last Updated on 12/08/2026 19:37:52 UTC
 <!--END_SECTION:waka-->
