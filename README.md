@@ -49,7 +49,7 @@
 _generated with [Platane/snk](https://github.com/Platane/snk)_
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-543%20hrs%2031%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-545%20hrs%2041%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-62%20hrs%2028%20mins-blue?style=flat)
 
@@ -94,24 +94,43 @@ Sunday                   425 commits         █████░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-C#                       2 hrs 9 mins        █████████████████████████   99.45 % 
-Csproj                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
+C#                       2 hrs 9 mins        ███████████████████████░░   90.48 % 
+Python                   12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.03 % 
+Csproj                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
 
 🔥 Editors: 
-Rider                    2 hrs 10 mins       █████████████████████████   100.00 % 
+Rider                    2 hrs 10 mins       ███████████████████████░░   90.97 % 
+Codex Vscode             12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.03 % 
 
 🐱‍💻 Projects: 
-Crate-Reaction           2 hrs 10 mins       █████████████████████████   100.00 % 
+Crate-Reaction           2 hrs 11 mins       ███████████████████████░░   91.44 % 
+duke-transit-to-teer-chat12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 % 
 
 💻 Operating System: 
-Windows                  2 hrs 10 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 23 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 12 mins (9.03%)
+
+✍️ 155 lines written by AI, 229 lines written by hand (40.36% AI-written)
+
+🔤 190,206 Input Tokens, 19,390 Output Tokens
+
+💵 $2.54 Estimated AI Cost This Week
+
+🧠 2 AI Sessions, 3 AI Prompts
+
+GPT                      155 lines           █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+⚖️ Balanced with AI — 40.36% of written lines came from AI
+📝 Concise Prompter — average 362 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🔍 Hands-On Reviewer — 65.71% of changed lines were hand-edited
 ```
 
 **I Mostly Code in C#** 
@@ -131,5 +150,5 @@ ShaderLab                3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kingslayerrq/kingslayerrq/main/assets/bar_graph.png)
 
 
- Last Updated on 22/08/2026 18:59:11 UTC
+ Last Updated on 23/08/2026 18:58:16 UTC
 <!--END_SECTION:waka-->
