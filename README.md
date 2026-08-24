@@ -94,42 +94,42 @@ Sunday                   425 commits         █████░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-C#                       2 hrs 9 mins        ███████████████████████░░   90.48 % 
-Python                   12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.03 % 
-Csproj                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+C#                       2 hrs 9 mins        ████████████████████████░   94.84 % 
+Python                   6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 % 
+Csproj                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
 
 🔥 Editors: 
-Rider                    2 hrs 10 mins       ███████████████████████░░   90.97 % 
-Codex Vscode             12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.03 % 
+Rider                    2 hrs 10 mins       ████████████████████████░   95.36 % 
+Codex Vscode             6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 % 
 
 🐱‍💻 Projects: 
-Crate-Reaction           2 hrs 11 mins       ███████████████████████░░   91.44 % 
-duke-transit-to-teer-chat12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 % 
+Crate-Reaction           2 hrs 11 mins       ████████████████████████░   95.86 % 
+duke-transit-to-teer-chat5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
 
 💻 Operating System: 
-Windows                  2 hrs 23 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 16 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 12 mins (9.03%)
+⏱ AI Coding Time: 6 mins (4.64%)
 
 ✍️ 155 lines written by AI, 229 lines written by hand (40.36% AI-written)
 
-🔤 190,206 Input Tokens, 19,390 Output Tokens
+🔤 126,857 Input Tokens, 18,089 Output Tokens
 
-💵 $2.54 Estimated AI Cost This Week
+💵 $2.14 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 3 AI Prompts
+🧠 1 AI Sessions, 1 AI Prompts
 
 GPT                      155 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 ⚖️ Balanced with AI — 40.36% of written lines came from AI
-📝 Concise Prompter — average 362 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
+📄 Detailed Prompter — average 1,009 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
 🔍 Hands-On Reviewer — 65.71% of changed lines were hand-edited
 ```
 
@@ -150,5 +150,5 @@ ShaderLab                3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kingslayerrq/kingslayerrq/main/assets/bar_graph.png)
 
 
- Last Updated on 23/08/2026 18:58:16 UTC
+ Last Updated on 24/08/2026 19:11:14 UTC
 <!--END_SECTION:waka-->
