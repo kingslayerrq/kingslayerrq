@@ -94,43 +94,24 @@ Sunday                   425 commits         █████░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-C#                       2 hrs 9 mins        ████████████████████████░   94.84 % 
-Python                   6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 % 
-Csproj                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+C#                       2 hrs 9 mins        █████████████████████████   99.45 % 
+Csproj                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
+XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
 
 🔥 Editors: 
-Rider                    2 hrs 10 mins       ████████████████████████░   95.36 % 
-Codex Vscode             6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 % 
+Rider                    2 hrs 10 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Crate-Reaction           2 hrs 11 mins       ████████████████████████░   95.86 % 
-duke-transit-to-teer-chat5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
+Crate-Reaction           2 hrs 10 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  2 hrs 16 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 10 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 mins (4.64%)
-
-✍️ 155 lines written by AI, 229 lines written by hand (40.36% AI-written)
-
-🔤 126,857 Input Tokens, 18,089 Output Tokens
-
-💵 $2.14 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 1 AI Prompts
-
-GPT                      155 lines           █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-⚖️ Balanced with AI — 40.36% of written lines came from AI
-📄 Detailed Prompter — average 1,009 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🔍 Hands-On Reviewer — 65.71% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in C#** 
@@ -150,5 +131,5 @@ ShaderLab                3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kingslayerrq/kingslayerrq/main/assets/bar_graph.png)
 
 
- Last Updated on 24/08/2026 19:11:14 UTC
+ Last Updated on 25/08/2026 19:09:29 UTC
 <!--END_SECTION:waka-->
