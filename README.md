@@ -59,7 +59,7 @@ _generated with [Platane/snk](https://github.com/Platane/snk)_
 
 > 📦 726.1 kB Used in GitHub's Storage 
  > 
-> 🏆 289 Contributions in the Year 2026
+> 🏆 290 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -70,21 +70,21 @@ _generated with [Platane/snk](https://github.com/Platane/snk)_
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                401 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.29 % 
-🌆 Daytime                798 commits         █████████░░░░░░░░░░░░░░░░   34.41 % 
-🌃 Evening                887 commits         ██████████░░░░░░░░░░░░░░░   38.25 % 
-🌙 Night                  233 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.05 % 
+🌞 Morning                401 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.26 % 
+🌆 Daytime                798 commits         █████████░░░░░░░░░░░░░░░░   34.35 % 
+🌃 Evening                891 commits         ██████████░░░░░░░░░░░░░░░   38.36 % 
+🌙 Night                  233 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.03 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   567 commits         ██████░░░░░░░░░░░░░░░░░░░   24.45 % 
-Tuesday                  306 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.20 % 
-Wednesday                255 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.00 % 
-Thursday                 306 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.20 % 
-Friday                   255 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.00 % 
-Saturday                 205 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.84 % 
-Sunday                   425 commits         █████░░░░░░░░░░░░░░░░░░░░   18.33 % 
+Monday                   567 commits         ██████░░░░░░░░░░░░░░░░░░░   24.41 % 
+Tuesday                  309 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.30 % 
+Wednesday                255 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.98 % 
+Thursday                 307 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.22 % 
+Friday                   255 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.98 % 
+Saturday                 205 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
+Sunday                   425 commits         █████░░░░░░░░░░░░░░░░░░░░   18.30 % 
 ```
 
 
@@ -117,11 +117,11 @@ No AI Coding Activity Tracked This Week
 **I Mostly Code in C#** 
 
 ```text
-C#                       13 repos            ██████░░░░░░░░░░░░░░░░░░░   25.49 % 
-Python                   11 repos            █████░░░░░░░░░░░░░░░░░░░░   21.57 % 
-JavaScript               9 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
-C                        4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 % 
-ShaderLab                3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+C#                       13 repos            ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+JavaScript               9 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.31 % 
+C                        4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+ShaderLab                3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.77 % 
+C++                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
 ```
 
 
@@ -131,5 +131,5 @@ ShaderLab                3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kingslayerrq/kingslayerrq/main/assets/bar_graph.png)
 
 
- Last Updated on 26/08/2026 20:34:08 UTC
+ Last Updated on 28/08/2026 02:18:01 UTC
 <!--END_SECTION:waka-->
