@@ -94,16 +94,17 @@ Sunday                   425 commits         █████░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Text                     30 mins             █████████████████████░░░░   84.42 % 
+JSON                     5 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.58 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  36 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+rq23-assignments         36 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  36 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -129,5 +130,5 @@ C++                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kingslayerrq/kingslayerrq/main/assets/bar_graph.png)
 
 
- Last Updated on 07/09/2026 21:43:39 UTC
+ Last Updated on 08/09/2026 21:21:05 UTC
 <!--END_SECTION:waka-->
