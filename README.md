@@ -49,7 +49,7 @@
 _generated with [Platane/snk](https://github.com/Platane/snk)_
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-545%20hrs%2041%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-546%20hrs%2018%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-62%20hrs%2028%20mins-blue?style=flat)
 
@@ -57,15 +57,15 @@ _generated with [Platane/snk](https://github.com/Platane/snk)_
 
 **🐱 My GitHub Data** 
 
-> 📦 726.2 kB Used in GitHub's Storage 
+> 📦 726.3 kB Used in GitHub's Storage 
  > 
-> 🏆 290 Contributions in the Year 2026
+> 🏆 292 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
 > 📜 32 Public Repositories 
  > 
-> 🔑 26 Private Repositories 
+> 🔑 27 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
@@ -94,17 +94,19 @@ Sunday                   425 commits         █████░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Text                     30 mins             █████████████████████░░░░   84.42 % 
-JSON                     5 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.58 % 
+Text                     30 mins             █████████████████████░░░░   84.35 % 
+JSON                     5 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.65 % 
 
 🔥 Editors: 
 VS Code                  36 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-rq23-assignments         36 mins             █████████████████████████   100.00 % 
+rq23-assignments         36 mins             █████████████████████████   99.92 % 
+Duke_Programming_Bootcamp0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 
 💻 Operating System: 
-Windows                  36 mins             █████████████████████████   100.00 % 
+Windows                  36 mins             █████████████████████████   99.92 % 
+Mac                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -116,11 +118,11 @@ No AI Coding Activity Tracked This Week
 **I Mostly Code in C#** 
 
 ```text
-C#                       13 repos            ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-JavaScript               9 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.31 % 
-C                        4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
-ShaderLab                3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.77 % 
-C++                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
+C#                       13 repos            ██████░░░░░░░░░░░░░░░░░░░   24.53 % 
+JavaScript               9 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.98 % 
+C                        4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 % 
+Lua                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
+C++                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
 ```
 
 
@@ -130,5 +132,5 @@ C++                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kingslayerrq/kingslayerrq/main/assets/bar_graph.png)
 
 
- Last Updated on 08/09/2026 21:21:05 UTC
+ Last Updated on 09/09/2026 21:06:18 UTC
 <!--END_SECTION:waka-->
