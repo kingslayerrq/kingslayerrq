@@ -49,7 +49,7 @@
 _generated with [Platane/snk](https://github.com/Platane/snk)_
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-546%20hrs%2018%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-546%20hrs%2019%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-62%20hrs%2028%20mins-blue?style=flat)
 
@@ -57,9 +57,9 @@ _generated with [Platane/snk](https://github.com/Platane/snk)_
 
 **🐱 My GitHub Data** 
 
-> 📦 726.3 kB Used in GitHub's Storage 
+> 📦 726.4 kB Used in GitHub's Storage 
  > 
-> 🏆 292 Contributions in the Year 2026
+> 🏆 297 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -70,21 +70,21 @@ _generated with [Platane/snk](https://github.com/Platane/snk)_
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                401 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.25 % 
-🌆 Daytime                800 commits         █████████░░░░░░░░░░░░░░░░   34.41 % 
-🌃 Evening                891 commits         ██████████░░░░░░░░░░░░░░░   38.32 % 
-🌙 Night                  233 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.02 % 
+🌞 Morning                403 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.28 % 
+🌆 Daytime                803 commits         █████████░░░░░░░░░░░░░░░░   34.43 % 
+🌃 Evening                893 commits         ██████████░░░░░░░░░░░░░░░   38.29 % 
+🌙 Night                  233 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.99 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   569 commits         ██████░░░░░░░░░░░░░░░░░░░   24.47 % 
-Tuesday                  309 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.29 % 
-Wednesday                255 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.97 % 
-Thursday                 307 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.20 % 
-Friday                   255 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.97 % 
-Saturday                 205 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
-Sunday                   425 commits         █████░░░░░░░░░░░░░░░░░░░░   18.28 % 
+Monday                   569 commits         ██████░░░░░░░░░░░░░░░░░░░   24.40 % 
+Tuesday                  309 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.25 % 
+Wednesday                257 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.02 % 
+Thursday                 312 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.38 % 
+Friday                   255 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.93 % 
+Saturday                 205 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.79 % 
+Sunday                   425 commits         █████░░░░░░░░░░░░░░░░░░░░   18.22 % 
 ```
 
 
@@ -94,19 +94,23 @@ Sunday                   425 commits         █████░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Text                     30 mins             █████████████████████░░░░   84.35 % 
-JSON                     5 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.65 % 
+Text                     1 hr 8 mins         ██████████████░░░░░░░░░░░   56.14 % 
+Lua                      31 mins             ███████░░░░░░░░░░░░░░░░░░   26.19 % 
+C                        8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.94 % 
+JSON                     7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
+C++                      3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
 
 🔥 Editors: 
-VS Code                  36 mins             █████████████████████████   100.00 % 
+VS Code                  2 hrs 1 min         █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-rq23-assignments         36 mins             █████████████████████████   99.92 % 
-Duke_Programming_Bootcamp0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+rq23-assignments         1 hr 25 mins        ██████████████████░░░░░░░   70.60 % 
+playdate                 35 mins             ███████░░░░░░░░░░░░░░░░░░   29.38 % 
+Duke_Programming_Bootcamp0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 💻 Operating System: 
-Windows                  36 mins             █████████████████████████   99.92 % 
-Mac                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+Windows                  2 hrs 1 min         █████████████████████████   99.98 % 
+Mac                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -119,9 +123,9 @@ No AI Coding Activity Tracked This Week
 
 ```text
 C#                       13 repos            ██████░░░░░░░░░░░░░░░░░░░   24.53 % 
-JavaScript               9 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.98 % 
+JavaScript               10 repos            █████░░░░░░░░░░░░░░░░░░░░   18.87 % 
 C                        4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 % 
-Lua                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
+ShaderLab                3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.66 % 
 C++                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
 ```
 
@@ -132,5 +136,5 @@ C++                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kingslayerrq/kingslayerrq/main/assets/bar_graph.png)
 
 
- Last Updated on 09/09/2026 21:06:18 UTC
+ Last Updated on 10/09/2026 21:06:00 UTC
 <!--END_SECTION:waka-->
