@@ -49,7 +49,7 @@
 _generated with [Platane/snk](https://github.com/Platane/snk)_
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-546%20hrs%2019%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-547%20hrs%2044%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-62%20hrs%2028%20mins-blue?style=flat)
 
@@ -94,23 +94,24 @@ Sunday                   425 commits         █████░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Text                     1 hr 8 mins         ██████████████░░░░░░░░░░░   56.14 % 
-Lua                      31 mins             ███████░░░░░░░░░░░░░░░░░░   26.19 % 
-C                        8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.94 % 
-JSON                     7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
-C++                      3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
+Text                     1 hr 8 mins         ██████████░░░░░░░░░░░░░░░   40.01 % 
+Lua                      38 mins             ██████░░░░░░░░░░░░░░░░░░░   22.57 % 
+Docker                   19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.44 % 
+Makefile                 15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.81 % 
+C                        8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 1 min         █████████████████████████   100.00 % 
+VS Code                  2 hrs 52 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-rq23-assignments         1 hr 25 mins        ██████████████████░░░░░░░   70.60 % 
-playdate                 35 mins             ███████░░░░░░░░░░░░░░░░░░   29.38 % 
+rq23-assignments         1 hr 25 mins        ████████████░░░░░░░░░░░░░   49.84 % 
+playdate                 1 hr 25 mins        ████████████░░░░░░░░░░░░░   49.67 % 
+playdate-template        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
 Duke_Programming_Bootcamp0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 💻 Operating System: 
-Windows                  2 hrs 1 min         █████████████████████████   99.98 % 
-Mac                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+Windows                  2 hrs 1 min         ██████████████████░░░░░░░   70.57 % 
+Mac                      50 mins             ███████░░░░░░░░░░░░░░░░░░   29.43 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -136,5 +137,5 @@ C++                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kingslayerrq/kingslayerrq/main/assets/bar_graph.png)
 
 
- Last Updated on 10/09/2026 21:06:00 UTC
+ Last Updated on 11/09/2026 21:10:05 UTC
 <!--END_SECTION:waka-->
