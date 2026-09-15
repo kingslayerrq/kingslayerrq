@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Richard Qu</h1>
-<h3 align="center">NYU CS Major | Game Design & Japanese Minor</h3>
+<h3 align="center">Duke GDDI Master's Student | NYU CS Major + Game Design & Japanese Minor</h3>
 <h3 align="center">😄 Pronouns: He/Him</h3>
 
 <p align="center">
@@ -18,13 +18,20 @@
 
 ## 🎮 About Me
 
-I'm a game developer and full-stack engineer passionate about **AI/ML**, **game development**, and **building tools** that solve real problems. I love working on diverse projects—from AI agents in Minecraft to Discord utilities to complex game clones.
+I'm a game developer and full-stack engineer currently pursuing a **Master's degree in Game Design, Development & Innovation (GDDI)** at Duke University. With a foundation in **Computer Science from NYU** and minors in **Game Design & Japanese**, I bring a unique blend of technical depth and creative vision to every project.
 
-- 🔭 Currently working on **full-stack web development** and **AI integration projects**
-- 🌱 Learning **modern web frameworks, testing with Jest, and advanced AI techniques**
+I'm passionate about **AI/ML**, **game development**, **interactive storytelling**, and **building tools** that solve real problems. I love working on diverse projects—from AI agents in Minecraft to full game clones to Discord utilities.
+
+### 📚 Education
+- 🎓 **Duke University** - Master's in Game Design, Development & Innovation (GDDI) *(Current)*
+- 🎓 **NYU** - B.S. Computer Science Major + Game Design & Japanese Minors
+
+### 💼 Current Focus
+- 🔭 Working on **advanced game systems, AI integration, and interactive narratives**
+- 🌱 Deepening knowledge in **game engine architecture, narrative design, and AI in games**
 - 👯 Open to collaborating on **game dev, AI/ML, and full-stack projects**
-- 🤝 Looking for help with **optimization, system design, and cutting-edge AI implementations**
-- 💬 Ask me about **game development, Python AI, JavaScript/TypeScript, C#**
+- 🤝 Looking for help with **optimization, system design, and innovative gameplay mechanics**
+- 💬 Ask me about **game development, Python AI, JavaScript/TypeScript, C#, game design theory, Japanese culture**
 - 📫 Reach me at **rq2014@nyu.edu**
 - ⚡ **Fun fact**: I solve complex problems by day and explore new games by night—hiking on weekends!
 
@@ -65,9 +72,10 @@ I'm a game developer and full-stack engineer passionate about **AI/ML**, **game 
 
 ```
 Primary Languages:    C# | JavaScript/TypeScript | Python | C
-Game Development:     Unity | ShaderLab | C#
+Game Development:     Unity | Unreal Engine | ShaderLab | C#
 Web Development:      React | Vue.js | Node.js | TypeScript
 AI/ML:               Python | Reinforcement Learning | LLMs
+Narrative & Design:   Twine | Ink | Game Design Documentation
 Databases:           SQL | Firebase
 Tools & Platforms:   Git | Docker | AWS | VS Code
 ```
