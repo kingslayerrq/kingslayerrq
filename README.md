@@ -1,44 +1,97 @@
 <h1 align="center">Hi 👋, I'm Richard Qu</h1>
-<h3 align="center">NYU CS major/ Game Design & Japanese minor</h3>
+<h3 align="center">NYU CS Major | Game Design & Japanese Minor</h3>
 <h3 align="center">😄 Pronouns: He/Him</h3>
 
-<p align="center" justify-content="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kingslayerrq" alt="kingslayerrq" /></a> </p>
-
-- 🔭 I’m currently working on [my-web](https://www.kingslayerrq.fyi)
-
-- 🌱 I’m currently learning **fullstack, jest, etc**
-
-- 👯 I’m looking to collaborate on **anything**
-
-- 🤝 I’m looking for help with **fullstack, jest, etc**
-
-- 📫 How to reach me **rq2014@nyu.edu**
-
-- ⚡ Fun fact: I love solving complex problems and building tools that make life easier. When I’m not coding, you’ll likely find me outdoors hiking or trying out new games.
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://discord.gg/https://discord.gg/AYghsyBX" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/AYghsyBX" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://www.kingslayerrq.fyi" target="_blank"><strong>Portfolio</strong></a> •
+  <a href="mailto:rq2014@nyu.edu"><strong>Email</strong></a> •
+  <a href="https://discord.gg/AYghsyBX" target="_blank"><strong>Discord</strong></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kingslayerrq&theme=dark" alt="kingslayerrq" /></p>
-
-
-
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=kingslayerrq" alt="kingslayerrq" />
+  </a>
+</p>
 
 ---
 
-### 📊 My GitHub Stats:
+## 🎮 About Me
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=kingslayerrq&show_icons=true&theme=synthwave" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kingslayerrq&layout=donut&langs_count=8&card_width=320&theme=synthwave" />
-</a>
+I'm a game developer and full-stack engineer passionate about **AI/ML**, **game development**, and **building tools** that solve real problems. I love working on diverse projects—from AI agents in Minecraft to Discord utilities to complex game clones.
+
+- 🔭 Currently working on **full-stack web development** and **AI integration projects**
+- 🌱 Learning **modern web frameworks, testing with Jest, and advanced AI techniques**
+- 👯 Open to collaborating on **game dev, AI/ML, and full-stack projects**
+- 🤝 Looking for help with **optimization, system design, and cutting-edge AI implementations**
+- 💬 Ask me about **game development, Python AI, JavaScript/TypeScript, C#**
+- 📫 Reach me at **rq2014@nyu.edu**
+- ⚡ **Fun fact**: I solve complex problems by day and explore new games by night—hiking on weekends!
+
+---
+
+## 🎯 Featured Projects
+
+### 🤖 AI & Machine Learning
+- **[mindcraft](https://github.com/kingslayerrq/mindcraft)** - Minecraft AI with LLMs + Mineflayer
+- **[AI-RL](https://github.com/kingslayerrq/AI-RL)** - Reinforcement Learning projects
+- **[balatro-ai](https://github.com/kingslayerrq/balatro-ai)** - AI agent for Balatro card game
+- **[pensieve_ai](https://github.com/kingslayerrq/pensieve_ai)** - Passive recording + indexing screenshots locally
+- **[Credit-Card-Fraud-Detection](https://github.com/kingslayerrq/Credit-Card-Fraud-Detection-Project)** - ML fraud detection model
+- **[AI-search](https://github.com/kingslayerrq/AI-search)** - Intelligent search implementation
+
+### 🎮 Game Development
+- **[Balatro-Clone](https://github.com/kingslayerrq/Balatro-Clone)** - Full C# clone of the hit poker roguelike
+- **[GGJ2026](https://github.com/kingslayerrq/GGJ2026)** - Global Game Jam 2026 entry (Unity 6.3 LTS)
+- **[Booomjam2026](https://github.com/kingslayerrq/Booomjam2026)** - Game jam project in C#
+- **[Ecosystem](https://github.com/kingslayerrq/Ecosystem)** - Simulation/ecosystem game
+- **[Froglid](https://github.com/kingslayerrq/Froglid)** - Game development project
+- **[IntermediateGameDevFinal](https://github.com/kingslayerrq/IntermediateGameDevFinal)** - Advanced game dev coursework
+
+### 💻 Full-Stack & Web
+- **[my-web](https://github.com/kingslayerrq/my-web)** - Personal portfolio/website ([kingslayerrq.fyi](https://www.kingslayerrq.fyi))
+- **[chatdemo](https://github.com/kingslayerrq/chatdemo)** - Interactive chat application
+- **[react-login](https://github.com/kingslayerrq/react-login)** - Authentication system
+- **[openjetlag](https://github.com/kingslayerrq/openjetlag.github.io)** - Jetlag Calculator (Vue.js)
+
+### 🛠️ Tools & Utilities
+- **[discord-last-login](https://github.com/kingslayerrq/discord-last-login)** - BetterDiscord plugin tracking last online
+- **[NetEase-Cloud-Music-DiscordRPC](https://github.com/kingslayerrq/NetEase-Cloud-Music-DiscordRPC)** - Discord Rich Presence for music
+- **[LeetHub](https://github.com/kingslayerrq/LeetHub)** - Sync LeetCode solutions to GitHub
+
+---
+
+## 💻 Languages & Tools
+
+```
+Primary Languages:    C# | JavaScript/TypeScript | Python | C
+Game Development:     Unity | ShaderLab | C#
+Web Development:      React | Vue.js | Node.js | TypeScript
+AI/ML:               Python | Reinforcement Learning | LLMs
+Databases:           SQL | Firebase
+Tools & Platforms:   Git | Docker | AWS | VS Code
+```
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=kingslayerrq&show_icons=true&theme=synthwave" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kingslayerrq&layout=donut&langs_count=8&card_width=320&theme=synthwave" alt="Top Languages" />
+  </a>
+</div>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kingslayerrq&theme=dark" alt="GitHub Streak" />
+</p>
+
+---
+
+## 🎨 Contribution Visualization
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
@@ -46,7 +99,9 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
 </picture>
 
-_generated with [Platane/snk](https://github.com/Platane/snk)_
+---
+
+## 📈 Coding Activity
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-548%20hrs%2036%20mins-blue?style=flat)
@@ -55,19 +110,19 @@ _generated with [Platane/snk](https://github.com/Platane/snk)_
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-**🐱 My GitHub Data** 
+**🐱 My GitHub Data**
 
 > 📦 726.4 kB Used in GitHub's Storage 
- > 
+> 
 > 🏆 297 Contributions in the Year 2026
- > 
+>
 > 💼 Opted to Hire
- > 
+>
 > 📜 32 Public Repositories 
- > 
+>
 > 🔑 27 Private Repositories 
- > 
-**I'm an Early 🐤** 
+
+**I'm an Early 🐤**
 
 ```text
 🌞 Morning                403 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.28 % 
@@ -75,7 +130,8 @@ _generated with [Platane/snk](https://github.com/Platane/snk)_
 🌃 Evening                893 commits         ██████████░░░░░░░░░░░░░░░   38.29 % 
 🌙 Night                  233 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.99 % 
 ```
-📅 **I'm Most Productive on Monday** 
+
+📅 **Most Productive on Monday**
 
 ```text
 Monday                   569 commits         ██████░░░░░░░░░░░░░░░░░░░   24.40 % 
@@ -87,8 +143,7 @@ Saturday                 205 commits         ██░░░░░░░░░�
 Sunday                   425 commits         █████░░░░░░░░░░░░░░░░░░░░   18.22 % 
 ```
 
-
-📊 **This Week I Spent My Time On** 
+**This Week I Spent My Time On**
 
 ```text
 🕑︎ Time Zone: America/New_York
@@ -103,24 +158,12 @@ C                        8 mins              █░░░░░░░░░░�
 🔥 Editors: 
 VS Code                  2 hrs 52 mins       █████████████████████████   100.00 % 
 
-🐱‍💻 Projects: 
-rq23-assignments         1 hr 25 mins        ████████████░░░░░░░░░░░░░   49.84 % 
-playdate                 1 hr 25 mins        ████████████░░░░░░░░░░░░░   49.67 % 
-playdate-template        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
-Duke_Programming_Bootcamp0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
-
 💻 Operating System: 
 Windows                  2 hrs 1 min         ██████████████████░░░░░░░   70.57 % 
 Mac                      50 mins             ███████░░░░░░░░░░░░░░░░░░   29.43 % 
 ```
 
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
-
-**I Mostly Code in C#** 
+**I Mostly Code in C#**
 
 ```text
 C#                       13 repos            ██████░░░░░░░░░░░░░░░░░░░   24.53 % 
@@ -130,12 +173,31 @@ ShaderLab                3 repos             █░░░░░░░░░░�
 C++                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
 ```
 
-
-
-**Timeline**
+📊 **Timeline**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/kingslayerrq/kingslayerrq/main/assets/bar_graph.png)
 
-
- Last Updated on 14/09/2026 21:59:05 UTC
+Last Updated on 14/09/2026 21:59:05 UTC
 <!--END_SECTION:waka-->
+
+---
+
+## 🔗 Connect With Me
+
+<p align="left">
+  <a href="https://www.kingslayerrq.fyi" target="_blank" rel="noopener noreferrer">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/globe.svg" alt="portfolio" height="30" width="30" />
+  </a>
+  <a href="https://discord.gg/AYghsyBX" target="_blank" rel="noopener noreferrer">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord" height="30" width="30" />
+  </a>
+  <a href="mailto:rq2014@nyu.edu" target="_blank" rel="noopener noreferrer">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/mail.svg" alt="email" height="30" width="30" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <em>⭐ If you find any of my projects interesting, feel free to star them and reach out!</em>
+</p>
