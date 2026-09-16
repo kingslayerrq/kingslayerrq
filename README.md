@@ -112,11 +112,11 @@ Tools & Platforms:   Git | Docker | AWS | VS Code
 ## 📈 Coding Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-548%20hrs%2036%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-550%20hrs%2029%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-62%20hrs%2028%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -157,24 +157,23 @@ Sunday                   425 commits         █████░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-C                        1 hr 51 mins        ███████████░░░░░░░░░░░░░░   45.05 % 
-Text                     47 mins             █████░░░░░░░░░░░░░░░░░░░░   19.02 % 
-Lua                      38 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.66 % 
-Docker                   19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 % 
-Makefile                 15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.11 % 
+C                        1 hr 51 mins        ███████████░░░░░░░░░░░░░░   45.18 % 
+Text                     47 mins             █████░░░░░░░░░░░░░░░░░░░░   19.07 % 
+Lua                      38 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.44 % 
+Docker                   19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.96 % 
+Makefile                 15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.13 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 8 mins        █████████████████████████   100.00 % 
+VS Code                  4 hrs 7 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-rq23-assignments         2 hrs 41 mins       ████████████████░░░░░░░░░   65.20 % 
-playdate                 1 hr 25 mins        █████████░░░░░░░░░░░░░░░░   34.46 % 
-playdate-template        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
-Duke_Programming_Bootcamp0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+rq23-assignments         2 hrs 41 mins       ████████████████░░░░░░░░░   65.38 % 
+playdate                 1 hr 25 mins        █████████░░░░░░░░░░░░░░░░   34.56 % 
+playdate-template        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 💻 Operating System: 
-Mac                      2 hrs 43 mins       ████████████████░░░░░░░░░   65.78 % 
-Windows                  1 hr 24 mins        █████████░░░░░░░░░░░░░░░░   34.22 % 
+Mac                      2 hrs 42 mins       ████████████████░░░░░░░░░   65.68 % 
+Windows                  1 hr 24 mins        █████████░░░░░░░░░░░░░░░░   34.32 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -200,7 +199,7 @@ C++                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kingslayerrq/kingslayerrq/main/assets/bar_graph.png)
 
 
- Last Updated on 15/09/2026 21:38:19 UTC
+ Last Updated on 16/09/2026 21:33:35 UTC
 <!--END_SECTION:waka-->
 
 ---
