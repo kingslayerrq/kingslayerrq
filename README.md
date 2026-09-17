@@ -157,23 +157,21 @@ Sunday                   425 commits         █████░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-C                        1 hr 51 mins        ███████████░░░░░░░░░░░░░░   45.18 % 
-Text                     47 mins             █████░░░░░░░░░░░░░░░░░░░░   19.07 % 
-Lua                      38 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.44 % 
-Docker                   19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.96 % 
-Makefile                 15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.13 % 
+C                        1 hr 43 mins        ████████████████░░░░░░░░░   63.66 % 
+Docker                   19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.13 % 
+Makefile                 15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.34 % 
+Text                     9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.07 % 
+Lua                      6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 7 mins        █████████████████████████   100.00 % 
+VS Code                  2 hrs 42 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-rq23-assignments         2 hrs 41 mins       ████████████████░░░░░░░░░   65.38 % 
-playdate                 1 hr 25 mins        █████████░░░░░░░░░░░░░░░░   34.56 % 
-playdate-template        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+rq23-assignments         1 hr 52 mins        █████████████████░░░░░░░░   69.32 % 
+playdate                 49 mins             ████████░░░░░░░░░░░░░░░░░   30.68 % 
 
 💻 Operating System: 
-Mac                      2 hrs 42 mins       ████████████████░░░░░░░░░   65.68 % 
-Windows                  1 hr 24 mins        █████████░░░░░░░░░░░░░░░░   34.32 % 
+Mac                      2 hrs 42 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -199,7 +197,7 @@ C++                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kingslayerrq/kingslayerrq/main/assets/bar_graph.png)
 
 
- Last Updated on 16/09/2026 21:33:35 UTC
+ Last Updated on 17/09/2026 21:38:11 UTC
 <!--END_SECTION:waka-->
 
 ---
