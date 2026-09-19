@@ -120,7 +120,7 @@ Tools & Platforms:   Git | Docker | AWS | VS Code
 
 **🐱 My GitHub Data** 
 
-> 📦 747.9 kB Used in GitHub's Storage 
+> 📦 748.0 kB Used in GitHub's Storage 
  > 
 > 🏆 302 Contributions in the Year 2026
  > 
@@ -157,17 +157,18 @@ Sunday                   425 commits         █████░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-C                        1 hr 43 mins        ███████████████████████░░   91.83 % 
-Text                     9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.17 % 
+C                        2 hrs 16 mins       ███████████████████████░░   91.57 % 
+Text                     9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.52 % 
+Bash                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
 
 🔥 Editors: 
-VS Code                  1 hr 52 mins        █████████████████████████   100.00 % 
+VS Code                  2 hrs 29 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-rq23-assignments         1 hr 52 mins        █████████████████████████   100.00 % 
+rq23-assignments         2 hrs 29 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      1 hr 52 mins        █████████████████████████   100.00 % 
+Mac                      2 hrs 29 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -193,7 +194,7 @@ C++                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kingslayerrq/kingslayerrq/main/assets/bar_graph.png)
 
 
- Last Updated on 18/09/2026 21:09:00 UTC
+ Last Updated on 19/09/2026 20:55:47 UTC
 <!--END_SECTION:waka-->
 
 ---
