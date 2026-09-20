@@ -112,9 +112,9 @@ Tools & Platforms:   Git | Docker | AWS | VS Code
 ## 📈 Coding Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-550%20hrs%2029%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-551%20hrs%2059%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-62%20hrs%2028%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-63%20hrs%2022%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
@@ -157,18 +157,20 @@ Sunday                   425 commits         █████░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-C                        2 hrs 16 mins       ███████████████████████░░   91.57 % 
-Text                     9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.52 % 
-Bash                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
+C                        2 hrs 16 mins       ███████████████░░░░░░░░░░   58.48 % 
+Bash                     57 mins             ██████░░░░░░░░░░░░░░░░░░░   24.38 % 
+Text                     36 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.50 % 
+Roff                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 29 mins       █████████████████████████   100.00 % 
+VS Code                  3 hrs 53 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-rq23-assignments         2 hrs 29 mins       █████████████████████████   100.00 % 
+rq23-assignments         3 hrs 53 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      2 hrs 29 mins       █████████████████████████   100.00 % 
+Mac                      3 hrs 32 mins       ███████████████████████░░   90.78 % 
+Windows                  21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.22 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -194,7 +196,7 @@ C++                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kingslayerrq/kingslayerrq/main/assets/bar_graph.png)
 
 
- Last Updated on 19/09/2026 20:55:47 UTC
+ Last Updated on 20/09/2026 21:00:04 UTC
 <!--END_SECTION:waka-->
 
 ---
