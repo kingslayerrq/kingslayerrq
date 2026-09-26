@@ -157,46 +157,28 @@ Sunday                   425 commits         █████░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-C                        1 hr 33 mins        █████████░░░░░░░░░░░░░░░░   37.51 % 
-Bash                     57 mins             ██████░░░░░░░░░░░░░░░░░░░   22.93 % 
-JavaScript               48 mins             █████░░░░░░░░░░░░░░░░░░░░   19.39 % 
-Text                     39 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.97 % 
-Lua                      5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
+C                        59 mins             █████████░░░░░░░░░░░░░░░░   37.91 % 
+Bash                     54 mins             █████████░░░░░░░░░░░░░░░░   34.23 % 
+Text                     39 mins             ██████░░░░░░░░░░░░░░░░░░░   24.76 % 
+Roff                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
+Makefile                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 14 mins       ████████████████████░░░░░   78.38 % 
-Codex Vscode             53 mins             █████░░░░░░░░░░░░░░░░░░░░   21.62 % 
+VS Code                  2 hrs 38 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-rq23-assignments         3 hrs 6 mins        ███████████████████░░░░░░   75.11 % 
-playdate                 53 mins             █████░░░░░░░░░░░░░░░░░░░░   21.62 % 
-gamedsgn-590.02-fa26-exam8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 
+rq23-assignments         2 hrs 30 mins       ████████████████████████░   94.86 % 
+gamedsgn-590.02-fa26-exam8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.14 % 
 
 💻 Operating System: 
-Mac                      2 hrs 53 mins       █████████████████░░░░░░░░   69.70 % 
-Windows                  1 hr 15 mins        ████████░░░░░░░░░░░░░░░░░   30.30 % 
+Mac                      2 hrs 16 mins       ██████████████████████░░░   86.37 % 
+Windows                  21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.63 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 53 mins (21.62%)
-
-✍️ 210 lines written by AI, 108 lines written by hand (66.04% AI-written)
-
-🔤 482,900 Input Tokens, 69,358 Output Tokens
-
-💵 $14.93 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 5 AI Prompts
-
-GPT                      210 lines           █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 66.04% of written lines came from AI
-📄 Detailed Prompter — average 1,445 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 47.5% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in C#** 
@@ -216,7 +198,7 @@ C++                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kingslayerrq/kingslayerrq/main/assets/bar_graph.png)
 
 
- Last Updated on 25/09/2026 21:47:08 UTC
+ Last Updated on 26/09/2026 21:24:21 UTC
 <!--END_SECTION:waka-->
 
 ---
