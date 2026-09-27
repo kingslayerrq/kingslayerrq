@@ -157,22 +157,20 @@ Sunday                   425 commits         █████░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-C                        59 mins             █████████░░░░░░░░░░░░░░░░   37.91 % 
-Bash                     54 mins             █████████░░░░░░░░░░░░░░░░   34.23 % 
-Text                     39 mins             ██████░░░░░░░░░░░░░░░░░░░   24.76 % 
-Roff                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
-Makefile                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
+C                        59 mins             ████████████████████░░░░░   80.30 % 
+Text                     13 mins             █████░░░░░░░░░░░░░░░░░░░░   18.26 % 
+Makefile                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 38 mins       █████████████████████████   100.00 % 
+VS Code                  1 hr 14 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-rq23-assignments         2 hrs 30 mins       ████████████████████████░   94.86 % 
-gamedsgn-590.02-fa26-exam8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.14 % 
+rq23-assignments         1 hr 4 mins         ██████████████████████░░░   86.62 % 
+gamedsgn-590.02-fa26-exam8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.88 % 
+playdate                 1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
 
 💻 Operating System: 
-Mac                      2 hrs 16 mins       ██████████████████████░░░   86.37 % 
-Windows                  21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.63 % 
+Mac                      1 hr 14 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -198,7 +196,7 @@ C++                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kingslayerrq/kingslayerrq/main/assets/bar_graph.png)
 
 
- Last Updated on 26/09/2026 21:24:21 UTC
+ Last Updated on 27/09/2026 21:32:33 UTC
 <!--END_SECTION:waka-->
 
 ---
