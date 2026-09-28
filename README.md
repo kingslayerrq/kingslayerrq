@@ -122,7 +122,7 @@ Tools & Platforms:   Git | Docker | AWS | VS Code
 
 > 📦 748.0 kB Used in GitHub's Storage 
  > 
-> 🏆 303 Contributions in the Year 2026
+> 🏆 304 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -133,21 +133,21 @@ Tools & Platforms:   Git | Docker | AWS | VS Code
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                404 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.28 % 
-🌆 Daytime                807 commits         █████████░░░░░░░░░░░░░░░░   34.52 % 
-🌃 Evening                894 commits         ██████████░░░░░░░░░░░░░░░   38.24 % 
-🌙 Night                  233 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.97 % 
+🌞 Morning                405 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.32 % 
+🌆 Daytime                807 commits         █████████░░░░░░░░░░░░░░░░   34.50 % 
+🌃 Evening                894 commits         ██████████░░░░░░░░░░░░░░░   38.22 % 
+🌙 Night                  233 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.96 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   569 commits         ██████░░░░░░░░░░░░░░░░░░░   24.34 % 
-Tuesday                  314 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.43 % 
+Monday                   570 commits         ██████░░░░░░░░░░░░░░░░░░░   24.37 % 
+Tuesday                  314 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.42 % 
 Wednesday                257 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.99 % 
-Thursday                 313 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.39 % 
-Friday                   255 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.91 % 
-Saturday                 205 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.77 % 
-Sunday                   425 commits         █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
+Thursday                 313 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.38 % 
+Friday                   255 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.90 % 
+Saturday                 205 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.76 % 
+Sunday                   425 commits         █████░░░░░░░░░░░░░░░░░░░░   18.17 % 
 ```
 
 
@@ -157,20 +157,20 @@ Sunday                   425 commits         █████░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-C                        59 mins             ████████████████████░░░░░   80.30 % 
-Text                     13 mins             █████░░░░░░░░░░░░░░░░░░░░   18.26 % 
-Makefile                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
+C                        1 hr 53 mins        █████████████████████░░░░   84.83 % 
+Text                     13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.30 % 
+Makefile                 6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.86 % 
 
 🔥 Editors: 
-VS Code                  1 hr 14 mins        █████████████████████████   100.00 % 
+VS Code                  2 hrs 13 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-rq23-assignments         1 hr 4 mins         ██████████████████████░░░   86.62 % 
-gamedsgn-590.02-fa26-exam8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.88 % 
-playdate                 1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
+rq23-assignments         2 hrs 4 mins        ███████████████████████░░   92.54 % 
+gamedsgn-590.02-fa26-exam8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
+playdate                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
 
 💻 Operating System: 
-Mac                      1 hr 14 mins        █████████████████████████   100.00 % 
+Mac                      2 hrs 13 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -183,9 +183,9 @@ No AI Coding Activity Tracked This Week
 
 ```text
 C#                       13 repos            ██████░░░░░░░░░░░░░░░░░░░   24.07 % 
-JavaScript               10 repos            █████░░░░░░░░░░░░░░░░░░░░   18.52 % 
 C                        4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
 HTML                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
+Lua                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
 C++                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
 ```
 
@@ -196,7 +196,7 @@ C++                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kingslayerrq/kingslayerrq/main/assets/bar_graph.png)
 
 
- Last Updated on 27/09/2026 21:32:33 UTC
+ Last Updated on 28/09/2026 23:28:29 UTC
 <!--END_SECTION:waka-->
 
 ---
