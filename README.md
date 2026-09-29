@@ -112,7 +112,7 @@ Tools & Platforms:   Git | Docker | AWS | VS Code
 ## 📈 Coding Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-554%20hrs%2037%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-555%20hrs%2037%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-63%20hrs%2022%20mins-blue?style=flat)
 
@@ -120,7 +120,7 @@ Tools & Platforms:   Git | Docker | AWS | VS Code
 
 **🐱 My GitHub Data** 
 
-> 📦 748.0 kB Used in GitHub's Storage 
+> 📦 748.1 kB Used in GitHub's Storage 
  > 
 > 🏆 304 Contributions in the Year 2026
  > 
@@ -157,26 +157,46 @@ Sunday                   425 commits         █████░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-C                        1 hr 53 mins        █████████████████████░░░░   84.83 % 
-Text                     13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.30 % 
-Makefile                 6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.86 % 
+C                        53 mins             ██████████████░░░░░░░░░░░   55.71 % 
+Text                     15 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.81 % 
+Lua                      14 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.13 % 
+Other                    5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.01 % 
+Makefile                 5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.63 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 13 mins       █████████████████████████   100.00 % 
+VS Code                  1 hr 25 mins        ██████████████████████░░░   88.79 % 
+Codex Vscode             10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.21 % 
 
 🐱‍💻 Projects: 
-rq23-assignments         2 hrs 4 mins        ███████████████████████░░   92.54 % 
-gamedsgn-590.02-fa26-exam8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
-playdate                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
+rq23-assignments         1 hr 12 mins        ███████████████████░░░░░░   75.21 % 
+playdate                 22 mins             ██████░░░░░░░░░░░░░░░░░░░   23.07 % 
+gamedsgn-590.02-fa26-exam1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
 
 💻 Operating System: 
-Mac                      2 hrs 13 mins       █████████████████████████   100.00 % 
+Mac                      1 hr 16 mins        ████████████████████░░░░░   78.86 % 
+Windows                  20 mins             █████░░░░░░░░░░░░░░░░░░░░   21.14 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 10 mins (11.22%)
+
+✍️ 0 lines written by AI, 59 lines written by hand (0.0% AI-written)
+
+🔤 89,410 Input Tokens, 17,223 Output Tokens
+
+💵 $3.73 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 3 AI Prompts
+
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📄 Detailed Prompter — average 778 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in C#** 
@@ -196,7 +216,7 @@ C++                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kingslayerrq/kingslayerrq/main/assets/bar_graph.png)
 
 
- Last Updated on 28/09/2026 23:28:29 UTC
+ Last Updated on 29/09/2026 22:32:47 UTC
 <!--END_SECTION:waka-->
 
 ---
