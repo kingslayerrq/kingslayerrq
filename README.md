@@ -122,7 +122,7 @@ Tools & Platforms:   Git | Docker | AWS | VS Code
 
 > 📦 748.3 kB Used in GitHub's Storage 
  > 
-> 🏆 352 Contributions in the Year 2026
+> 🏆 357 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -133,21 +133,21 @@ Tools & Platforms:   Git | Docker | AWS | VS Code
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                452 commits         █████░░░░░░░░░░░░░░░░░░░░   18.71 % 
-🌆 Daytime                837 commits         █████████░░░░░░░░░░░░░░░░   34.64 % 
-🌃 Evening                894 commits         █████████░░░░░░░░░░░░░░░░   37.00 % 
-🌙 Night                  233 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.64 % 
+🌞 Morning                457 commits         █████░░░░░░░░░░░░░░░░░░░░   18.88 % 
+🌆 Daytime                837 commits         █████████░░░░░░░░░░░░░░░░   34.57 % 
+🌃 Evening                894 commits         █████████░░░░░░░░░░░░░░░░   36.93 % 
+🌙 Night                  233 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.62 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   576 commits         ██████░░░░░░░░░░░░░░░░░░░   23.84 % 
-Tuesday                  319 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.20 % 
-Wednesday                295 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.21 % 
-Thursday                 324 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.41 % 
-Friday                   260 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.76 % 
-Saturday                 212 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.77 % 
-Sunday                   430 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.80 % 
+Monday                   576 commits         ██████░░░░░░░░░░░░░░░░░░░   23.79 % 
+Tuesday                  319 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.18 % 
+Wednesday                295 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.19 % 
+Thursday                 324 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.38 % 
+Friday                   265 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.95 % 
+Saturday                 212 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.76 % 
+Sunday                   430 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.76 % 
 ```
 
 
@@ -157,21 +157,21 @@ Sunday                   430 commits         ████░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-C++                      1 hr 24 mins        ████████████████░░░░░░░░░   64.75 % 
-Text                     37 mins             ███████░░░░░░░░░░░░░░░░░░   28.75 % 
-C                        7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.82 % 
-Makefile                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
+C++                      1 hr 22 mins        ████████████████░░░░░░░░░   64.14 % 
+Text                     37 mins             ███████░░░░░░░░░░░░░░░░░░   29.25 % 
+C                        7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.92 % 
+Makefile                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 9 mins        █████████████████████████   99.27 % 
-Codex Vscode             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
+VS Code                  2 hrs 7 mins        █████████████████████████   99.26 % 
+Codex Vscode             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
 
 🐱‍💻 Projects: 
-rq23-assignments         1 hr 50 mins        █████████████████████░░░░   84.78 % 
-gamedsgn-590.02-fa26-exam19 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.22 % 
+rq23-assignments         1 hr 50 mins        ██████████████████████░░░   86.23 % 
+gamedsgn-590.02-fa26-exam17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.77 % 
 
 💻 Operating System: 
-Mac                      2 hrs 10 mins       █████████████████████████   100.00 % 
+Mac                      2 hrs 8 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -197,7 +197,7 @@ Lua                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kingslayerrq/kingslayerrq/main/assets/bar_graph.png)
 
 
- Last Updated on 08/10/2026 23:31:36 UTC
+ Last Updated on 09/10/2026 22:49:58 UTC
 <!--END_SECTION:waka-->
 
 ---
