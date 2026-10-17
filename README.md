@@ -112,7 +112,7 @@ Tools & Platforms:   Git | Docker | AWS | VS Code
 ## 📈 Coding Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-558%20hrs%2025%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-558%20hrs%2038%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-64%20hrs%2016%20mins-blue?style=flat)
 
@@ -122,7 +122,7 @@ Tools & Platforms:   Git | Docker | AWS | VS Code
 
 > 📦 748.4 kB Used in GitHub's Storage 
  > 
-> 🏆 391 Contributions in the Year 2026
+> 🏆 398 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -133,21 +133,21 @@ Tools & Platforms:   Git | Docker | AWS | VS Code
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                504 commits         █████░░░░░░░░░░░░░░░░░░░░   20.42 % 
-🌆 Daytime                837 commits         ████████░░░░░░░░░░░░░░░░░   33.91 % 
-🌃 Evening                894 commits         █████████░░░░░░░░░░░░░░░░   36.22 % 
-🌙 Night                  233 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.44 % 
+🌞 Morning                511 commits         █████░░░░░░░░░░░░░░░░░░░░   20.65 % 
+🌆 Daytime                837 commits         ████████░░░░░░░░░░░░░░░░░   33.82 % 
+🌃 Evening                894 commits         █████████░░░░░░░░░░░░░░░░   36.12 % 
+🌙 Night                  233 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.41 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   583 commits         ██████░░░░░░░░░░░░░░░░░░░   23.62 % 
-Tuesday                  325 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.17 % 
-Wednesday                303 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.28 % 
-Thursday                 330 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.37 % 
-Friday                   273 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.06 % 
-Saturday                 218 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.83 % 
-Sunday                   436 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.67 % 
+Monday                   583 commits         ██████░░░░░░░░░░░░░░░░░░░   23.56 % 
+Tuesday                  325 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.13 % 
+Wednesday                303 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.24 % 
+Thursday                 330 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
+Friday                   273 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.03 % 
+Saturday                 225 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+Sunday                   436 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.62 % 
 ```
 
 
@@ -194,7 +194,7 @@ Lua                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kingslayerrq/kingslayerrq/main/assets/bar_graph.png)
 
 
- Last Updated on 16/10/2026 21:31:21 UTC
+ Last Updated on 17/10/2026 20:50:04 UTC
 <!--END_SECTION:waka-->
 
 ---
