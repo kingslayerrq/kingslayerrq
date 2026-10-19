@@ -112,7 +112,7 @@ Tools & Platforms:   Git | Docker | AWS | VS Code
 ## 📈 Coding Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-558%20hrs%2038%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-561%20hrs%2036%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-64%20hrs%2016%20mins-blue?style=flat)
 
@@ -120,9 +120,9 @@ Tools & Platforms:   Git | Docker | AWS | VS Code
 
 **🐱 My GitHub Data** 
 
-> 📦 748.4 kB Used in GitHub's Storage 
+> 📦 748.5 kB Used in GitHub's Storage 
  > 
-> 🏆 405 Contributions in the Year 2026
+> 🏆 406 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -133,21 +133,21 @@ Tools & Platforms:   Git | Docker | AWS | VS Code
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                518 commits         █████░░░░░░░░░░░░░░░░░░░░   20.87 % 
-🌆 Daytime                837 commits         ████████░░░░░░░░░░░░░░░░░   33.72 % 
-🌃 Evening                894 commits         █████████░░░░░░░░░░░░░░░░   36.02 % 
-🌙 Night                  233 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.39 % 
+🌞 Morning                529 commits         █████░░░░░░░░░░░░░░░░░░░░   21.22 % 
+🌆 Daytime                837 commits         ████████░░░░░░░░░░░░░░░░░   33.57 % 
+🌃 Evening                894 commits         █████████░░░░░░░░░░░░░░░░   35.86 % 
+🌙 Night                  233 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.35 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   583 commits         ██████░░░░░░░░░░░░░░░░░░░   23.49 % 
-Tuesday                  325 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.09 % 
-Wednesday                303 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.21 % 
-Thursday                 330 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.30 % 
-Friday                   273 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.00 % 
-Saturday                 225 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.07 % 
-Sunday                   443 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.85 % 
+Monday                   594 commits         ██████░░░░░░░░░░░░░░░░░░░   23.83 % 
+Tuesday                  325 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
+Wednesday                303 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.15 % 
+Thursday                 330 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.24 % 
+Friday                   273 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.95 % 
+Saturday                 225 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.03 % 
+Sunday                   443 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.77 % 
 ```
 
 
@@ -157,22 +157,22 @@ Sunday                   443 commits         ████░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Python                   2 hrs 44 mins       █████████████████████░░░░   83.56 % 
-Markdown                 13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.65 % 
-Text                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
-Makefile                 6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 % 
-C++                      4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
+Python                   2 hrs 44 mins       █████████████████░░░░░░░░   67.74 % 
+C++                      46 mins             █████░░░░░░░░░░░░░░░░░░░░   18.96 % 
+Markdown                 13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.39 % 
+Makefile                 11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.69 % 
+Text                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 16 mins       █████████████████████████   100.00 % 
+VS Code                  4 hrs 2 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Random                   2 hrs 58 mins       ███████████████████████░░   90.49 % 
-rq23-assignments         18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.51 % 
+Random                   3 hrs 44 mins       ███████████████████████░░   92.29 % 
+rq23-assignments         18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.71 % 
 
 💻 Operating System: 
-Windows                  2 hrs 58 mins       ███████████████████████░░   90.49 % 
-Mac                      18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.51 % 
+Windows                  3 hrs 44 mins       ███████████████████████░░   92.29 % 
+Mac                      18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.71 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -198,7 +198,7 @@ Lua                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kingslayerrq/kingslayerrq/main/assets/bar_graph.png)
 
 
- Last Updated on 18/10/2026 20:59:20 UTC
+ Last Updated on 19/10/2026 22:35:05 UTC
 <!--END_SECTION:waka-->
 
 ---
