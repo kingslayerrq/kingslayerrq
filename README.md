@@ -3,7 +3,7 @@
 <h3 align="center">😄 Pronouns: He/Him</h3>
 
 <p align="center">
-  <a href="https://www.kingslayerrq.fyi" target="_blank"><strong>Portfolio</strong></a> •
+  <a href="https://kingslayerrq.github.io" target="_blank"><strong>Portfolio</strong></a> •
   <a href="mailto:rq2014@nyu.edu"><strong>Email</strong></a> •
   <a href="https://discord.gg/AYghsyBX" target="_blank"><strong>Discord</strong></a>
 </p>
@@ -223,7 +223,7 @@ Lua                      1 repo              ░░░░░░░░░░░�
 ## 🔗 Connect With Me
 
 <p align="left">
-  <a href="https://www.kingslayerrq.fyi" target="_blank" rel="noopener noreferrer">
+  <a href="https://kingslayerrq.github.io" target="_blank" rel="noopener noreferrer">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/globe.svg" alt="portfolio" height="30" width="30" />
   </a>
   <a href="https://discord.gg/AYghsyBX" target="_blank" rel="noopener noreferrer">
