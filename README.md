@@ -120,9 +120,9 @@ Tools & Platforms:   Git | Docker | AWS | VS Code
 
 **🐱 My GitHub Data** 
 
-> 📦 782.5 kB Used in GitHub's Storage 
+> 📦 782.6 kB Used in GitHub's Storage 
  > 
-> 🏆 548 Contributions in the Year 2026
+> 🏆 558 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -133,21 +133,21 @@ Tools & Platforms:   Git | Docker | AWS | VS Code
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                661 commits         ██████░░░░░░░░░░░░░░░░░░░   24.77 % 
-🌆 Daytime                853 commits         ████████░░░░░░░░░░░░░░░░░   31.96 % 
-🌃 Evening                920 commits         █████████░░░░░░░░░░░░░░░░   34.47 % 
-🌙 Night                  235 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.80 % 
+🌞 Morning                668 commits         ██████░░░░░░░░░░░░░░░░░░░   24.94 % 
+🌆 Daytime                853 commits         ████████░░░░░░░░░░░░░░░░░   31.85 % 
+🌃 Evening                920 commits         █████████░░░░░░░░░░░░░░░░   34.35 % 
+🌙 Night                  237 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.85 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   611 commits         ██████░░░░░░░░░░░░░░░░░░░   22.89 % 
-Tuesday                  343 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.85 % 
-Wednesday                327 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.25 % 
-Thursday                 368 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
-Friday                   312 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.69 % 
-Saturday                 249 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.33 % 
-Sunday                   459 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.20 % 
+Monday                   611 commits         ██████░░░░░░░░░░░░░░░░░░░   22.82 % 
+Tuesday                  343 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.81 % 
+Wednesday                327 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.21 % 
+Thursday                 368 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.74 % 
+Friday                   312 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.65 % 
+Saturday                 258 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.63 % 
+Sunday                   459 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.14 % 
 ```
 
 
@@ -157,57 +157,34 @@ Sunday                   459 commits         ████░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Python                   1 hr 17 mins        ████████████░░░░░░░░░░░░░   47.45 % 
-JavaScript               33 mins             █████░░░░░░░░░░░░░░░░░░░░   20.42 % 
-C++                      27 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.01 % 
-Markdown                 19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.24 % 
-Text                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
+C++                      0 secs              ███████████████░░░░░░░░░░   60.42 % 
+Git Config               0 secs              ██████████░░░░░░░░░░░░░░░   39.58 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 22 mins       ██████████████████████░░░   87.77 % 
-Codex Vscode             19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.23 % 
+VS Code                  0 secs              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Heritage                 2 hrs 12 mins       ████████████████████░░░░░   81.56 % 
-rq23-assignments         29 mins             █████░░░░░░░░░░░░░░░░░░░░   18.29 % 
-gamedsgn-590.02-fa26-exam0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
-Unity-2D                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+gamedsgn-590.02-fa26-exam0 secs              ███████████████░░░░░░░░░░   60.42 % 
+Unity-2D                 0 secs              ██████████░░░░░░░░░░░░░░░   39.58 % 
 
 💻 Operating System: 
-Windows                  2 hrs 42 mins       █████████████████████████   99.85 % 
-Mac                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+Mac                      0 secs              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 23 mins (88.13%)
-
-✍️ 2,690 lines written by AI, 67 lines written by hand (97.57% AI-written)
-
-🔤 710,905 Input Tokens, 224,334 Output Tokens
-
-💵 $62.74 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 20 AI Prompts
-
-GPT                      2,694 lines         █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 97.57% of written lines came from AI
-📄 Detailed Prompter — average 654 characters per prompt
-🔁 Iterative Prompter — average 20 prompts per session
-🚀 High AI Trust — 2.74% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in C#** 
 
 ```text
-C#                       14 repos            ██████░░░░░░░░░░░░░░░░░░░   24.56 % 
-Python                   12 repos            █████░░░░░░░░░░░░░░░░░░░░   21.05 % 
-C++                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
-HTML                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
-Lua                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
+C#                       14 repos            ██████░░░░░░░░░░░░░░░░░░░   24.14 % 
+Python                   12 repos            █████░░░░░░░░░░░░░░░░░░░░   20.69 % 
+C++                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
+Swift                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
+HTML                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
 ```
 
 
@@ -217,7 +194,7 @@ Lua                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kingslayerrq/kingslayerrq/main/assets/bar_graph.png)
 
 
- Last Updated on 06/11/2026 23:25:18 UTC
+ Last Updated on 07/11/2026 22:12:25 UTC
 <!--END_SECTION:waka-->
 
 ---
