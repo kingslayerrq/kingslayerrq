@@ -112,42 +112,42 @@ Tools & Platforms:   Git | Docker | AWS | VS Code
 ## 📈 Coding Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-591%20hrs%2054%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-594%20hrs-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-86%20hrs%2051%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-89%20hrs%208%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 798.3 kB Used in GitHub's Storage 
+> 📦 798.5 kB Used in GitHub's Storage 
  > 
-> 🏆 608 Contributions in the Year 2026
+> 🏆 621 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
-> 📜 35 Public Repositories 
+> 📜 36 Public Repositories 
  > 
 > 🔑 31 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                701 commits         ██████░░░░░░░░░░░░░░░░░░░   23.79 % 
-🌆 Daytime                882 commits         ███████░░░░░░░░░░░░░░░░░░   29.94 % 
-🌃 Evening                1042 commits        █████████░░░░░░░░░░░░░░░░   35.37 % 
-🌙 Night                  321 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.90 % 
+🌞 Morning                714 commits         ██████░░░░░░░░░░░░░░░░░░░   24.13 % 
+🌆 Daytime                882 commits         ███████░░░░░░░░░░░░░░░░░░   29.81 % 
+🌃 Evening                1042 commits        █████████░░░░░░░░░░░░░░░░   35.21 % 
+🌙 Night                  321 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.85 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   634 commits         █████░░░░░░░░░░░░░░░░░░░░   21.52 % 
-Tuesday                  358 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.15 % 
-Wednesday                327 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.10 % 
-Thursday                 394 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.37 % 
-Friday                   342 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.61 % 
-Saturday                 362 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.29 % 
-Sunday                   529 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.96 % 
+Monday                   634 commits         █████░░░░░░░░░░░░░░░░░░░░   21.43 % 
+Tuesday                  358 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.10 % 
+Wednesday                340 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.49 % 
+Thursday                 394 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.32 % 
+Friday                   342 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.56 % 
+Saturday                 362 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.23 % 
+Sunday                   529 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.88 % 
 ```
 
 
@@ -204,11 +204,11 @@ GPT                      6,296 lines         ███████████�
 **I Mostly Code in C#** 
 
 ```text
-C#                       15 repos            ██████░░░░░░░░░░░░░░░░░░░   25.42 % 
-JavaScript               10 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.95 % 
-C++                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
-Swift                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
-HTML                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
+C#                       15 repos            ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+JavaScript               11 repos            █████░░░░░░░░░░░░░░░░░░░░   18.33 % 
+C++                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
+Swift                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
+HTML                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
 ```
 
 
@@ -218,7 +218,7 @@ HTML                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kingslayerrq/kingslayerrq/main/assets/bar_graph.png)
 
 
- Last Updated on 10/11/2026 23:40:26 UTC
+ Last Updated on 12/11/2026 00:57:40 UTC
 <!--END_SECTION:waka-->
 
 ---
