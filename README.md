@@ -1,115 +1,99 @@
-<h1 align="center">Hi 👋, I'm Richard Qu</h1>
-<h3 align="center">Duke GDDI Master's Student | NYU CS Major + Game Design & Japanese Minor</h3>
-<h3 align="center">😄 Pronouns: He/Him</h3>
+<h1 align="center">Richard Qu · Kingslayerrq</h1>
 
 <p align="center">
-  <a href="https://kingslayerrq.github.io" target="_blank"><strong>Portfolio</strong></a> •
-  <a href="mailto:rq2014@nyu.edu"><strong>Email</strong></a> •
-  <a href="https://discord.gg/AYghsyBX" target="_blank"><strong>Discord</strong></a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=kingslayerrq" alt="kingslayerrq" />
+  <a href="https://kingslayerrq.github.io">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&center=true&vCenter=true&width=620&height=40&lines=Gameplay+%26+software+engineer;Combat+systems+%C2%B7+editor+tooling+%C2%B7+full-stack;M.Eng.+Game+Design%2C+Development+%26+Innovation+%40+Duke;Currently+building+Heritage+in+Unreal+5+C%2B%2B" alt="Gameplay and software engineer — combat systems, editor tooling, full-stack" />
   </a>
 </p>
 
----
-
-## 🎮 About Me
-
-I'm a game developer and full-stack engineer currently pursuing a **Master's degree in Game Design, Development & Innovation (GDDI)** at Duke University. With a foundation in **Computer Science from NYU** and minors in **Game Design & Japanese**, I bring a unique blend of technical depth and creative vision to every project.
-
-I'm passionate about **AI/ML**, **game development**, **interactive storytelling**, and **building tools** that solve real problems. I love working on diverse projects—from AI agents in Minecraft to full game clones to Discord utilities.
-
-### 📚 Education
-- 🎓 **Duke University** - Master's in Game Design, Development & Innovation (GDDI) *(Current)*
-- 🎓 **NYU** - B.S. Computer Science Major + Game Design & Japanese Minors
-
-### 💼 Current Focus
-- 🔭 Working on **advanced game systems, AI integration, and interactive narratives**
-- 🌱 Deepening knowledge in **game engine architecture, narrative design, and AI in games**
-- 👯 Open to collaborating on **game dev, AI/ML, and full-stack projects**
-- 🤝 Looking for help with **optimization, system design, and innovative gameplay mechanics**
-- 💬 Ask me about **game development, Python AI, JavaScript/TypeScript, C#, game design theory, Japanese culture**
-- 📫 Reach me at **rq2014@nyu.edu**
-- ⚡ **Fun fact**: I solve complex problems by day and explore new games by night—hiking on weekends!
-
----
-
-## 🎯 Featured Projects
-
-### 🤖 AI & Machine Learning
-- **[mindcraft](https://github.com/kingslayerrq/mindcraft)** - Minecraft AI with LLMs + Mineflayer
-- **[AI-RL](https://github.com/kingslayerrq/AI-RL)** - Reinforcement Learning projects
-- **[balatro-ai](https://github.com/kingslayerrq/balatro-ai)** - AI agent for Balatro card game
-- **[pensieve_ai](https://github.com/kingslayerrq/pensieve_ai)** - Passive recording + indexing screenshots locally
-- **[Credit-Card-Fraud-Detection](https://github.com/kingslayerrq/Credit-Card-Fraud-Detection-Project)** - ML fraud detection model
-- **[AI-search](https://github.com/kingslayerrq/AI-search)** - Intelligent search implementation
-
-### 🎮 Game Development
-- **[Balatro-Clone](https://github.com/kingslayerrq/Balatro-Clone)** - Full C# clone of the hit poker roguelike
-- **[GGJ2026](https://github.com/kingslayerrq/GGJ2026)** - Global Game Jam 2026 entry (Unity 6.3 LTS)
-- **[Booomjam2026](https://github.com/kingslayerrq/Booomjam2026)** - Game jam project in C#
-- **[Ecosystem](https://github.com/kingslayerrq/Ecosystem)** - Simulation/ecosystem game
-- **[Froglid](https://github.com/kingslayerrq/Froglid)** - Game development project
-- **[IntermediateGameDevFinal](https://github.com/kingslayerrq/IntermediateGameDevFinal)** - Advanced game dev coursework
-
-### 💻 Full-Stack & Web
-- **[my-web](https://github.com/kingslayerrq/my-web)** - Personal portfolio/website ([kingslayerrq.fyi](https://www.kingslayerrq.fyi))
-- **[chatdemo](https://github.com/kingslayerrq/chatdemo)** - Interactive chat application
-- **[react-login](https://github.com/kingslayerrq/react-login)** - Authentication system
-- **[openjetlag](https://github.com/kingslayerrq/openjetlag.github.io)** - Jetlag Calculator (Vue.js)
-
-### 🛠️ Tools & Utilities
-- **[discord-last-login](https://github.com/kingslayerrq/discord-last-login)** - BetterDiscord plugin tracking last online
-- **[NetEase-Cloud-Music-DiscordRPC](https://github.com/kingslayerrq/NetEase-Cloud-Music-DiscordRPC)** - Discord Rich Presence for music
-- **[LeetHub](https://github.com/kingslayerrq/LeetHub)** - Sync LeetCode solutions to GitHub
-
----
-
-## 💻 Languages & Tools
-
-```
-Primary Languages:    C# | JavaScript/TypeScript | Python | C
-Game Development:     Unity | Unreal Engine | ShaderLab | C#
-Web Development:      React | Vue.js | Node.js | TypeScript
-AI/ML:               Python | Reinforcement Learning | LLMs
-Narrative & Design:   Twine | Ink | Game Design Documentation
-Databases:           SQL | Firebase
-Tools & Platforms:   Git | Docker | AWS | VS Code
-```
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=kingslayerrq&show_icons=true&theme=synthwave" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kingslayerrq&layout=donut&langs_count=8&card_width=320&theme=synthwave" alt="Top Languages" />
-  </a>
-</div>
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kingslayerrq&theme=dark" alt="GitHub Streak" />
+  <a href="https://kingslayerrq.github.io"><img src="https://img.shields.io/badge/Portfolio-kingslayerrq.github.io-ff4f8b?style=for-the-badge" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/richard-qu-cs"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://kingslayerrq.itch.io"><img src="https://img.shields.io/badge/itch.io-fa5c5c?style=for-the-badge&logo=itchdotio&logoColor=white" alt="itch.io" /></a>
+  <a href="https://discord.com/users/1225896471812112426"><img src="https://img.shields.io/badge/Discord-5865f2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="mailto:rq2014@nyu.edu"><img src="https://img.shields.io/badge/Email-333?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
+I'm a Master of Engineering student in **Game Design, Development & Innovation at Duke**, with a B.A. in Computer Science from NYU and minors in Game Design and Japanese. I usually start from a technical problem, but what I care about is how the result feels to the player.
+
+- 🔭 **Now:** [Heritage](https://github.com/kingslayerrq/heritage), an Unreal 5 C++ prototype, with a [devlog](https://github.com/kingslayerrq/heritage-devlog)
+- 💼 **Open to:** gameplay engineering and software engineering roles
+- 💬 **Ask me about:** Unity and Unreal gameplay systems, C#, C++, full-stack web
+
 ---
 
-## 🎨 Contribution Visualization
+## 🍸 On the menu
 
+Four projects, click one to open it. The rest are on the [full menu](https://kingslayerrq.github.io/projects.html).
+
+<details open>
+<summary><b>🃏 Slay the Spire Clone</b> · Unity 6 · C#</summary>
+<br />
+<a href="https://kingslayerrq.github.io/slay-the-spire.html"><img src="https://kingslayerrq.github.io/assets/spire.jpg" alt="Card-driven combat in the Slay the Spire clone" width="640" /></a>
+
+A deckbuilder combat engine: a FIFO action queue that can pause for player input, typed buff hooks, data-driven cards with custom Inspector tooling, procedural maps, and versioned saves covered by EditMode tests.
+
+**[Read the write-up →](https://kingslayerrq.github.io/slay-the-spire.html)** · [Source](https://github.com/kingslayerrq/Unity-2D)
+</details>
+
+<details>
+<summary><b>♠️ Balatro Clone</b> · Unity · C# · Shaders</summary>
+<br />
+<a href="https://kingslayerrq.github.io/balatro.html"><img src="https://kingslayerrq.github.io/assets/balatro.jpg" alt="Poker cards and scoring in the Balatro clone" width="640" /></a>
+
+A poker roguelike study: rank and suit hand evaluation, coroutine-staged scoring you can follow card by card, ScriptableObject-driven blinds and hands, and shader-based card presentation.
+
+**[Read the write-up →](https://kingslayerrq.github.io/balatro.html)** · [Source](https://github.com/kingslayerrq/Balatro-Clone)
+</details>
+
+<details>
+<summary><b>📹 UnderWatch</b> · Unity 6 URP · BOOOM Jam 2026</summary>
+<br />
+<a href="https://github.com/kingslayerrq/Booomjam2026"><img src="https://kingslayerrq.github.io/assets/underwatch.jpg" alt="UnderWatch surveillance view: a fisheye camera feed of two prisoners" width="640" /></a>
+
+Watch prisoners through surveillance feeds by day, defend the camera room at night. Lead programmer on a team of three: ScriptableObject prisoner actions, per-day schedules and evidence, night attack routes, a save system, and a PS1-style post-process render feature.
+
+**[Source →](https://github.com/kingslayerrq/Booomjam2026)**
+</details>
+
+<details>
+<summary><b>🌐 GameDev Hub</b> · React · Express · PostgreSQL</summary>
+<br />
+<a href="https://kingslayerrq.github.io/my-web.html"><img src="https://kingslayerrq.github.io/assets/my-web-catalog.png" alt="GameDev Hub catalog" width="640" /></a>
+
+A full-stack platform for publishing and discovering games: React client, Express API, a Prisma/PostgreSQL data model, S3 uploads, Passport auth with Discord linking, and a live Discord gateway relay over WebSockets.
+
+**[Read the write-up →](https://kingslayerrq.github.io/my-web.html)** · [Source](https://github.com/kingslayerrq/my-web)
+</details>
+
+---
+
+<details>
+<summary><b>🛠️ Toolbox</b></summary>
+<br />
+
+| | |
+| --- | --- |
+| **Languages** | C# · C++ · C · TypeScript / JavaScript · Python |
+| **Game** | Unity 6 (URP, ScriptableObjects, editor tooling, shaders) · Unreal Engine 5 |
+| **Web** | React · Express · PostgreSQL / Prisma · Redis · WebSockets |
+| **Infra** | Git · Docker · AWS S3 · GitHub Actions |
+
+</details>
+
+<details>
+<summary><b>🐍 Contribution snake</b></summary>
+<br />
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kingslayerrq/kingslayerrq/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kingslayerrq/kingslayerrq/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/kingslayerrq/kingslayerrq/output/github-contribution-grid-snake.svg" />
 </picture>
+</details>
 
----
-
-## 📈 Coding Activity
+<details>
+<summary><b>📈 Coding activity</b> (auto-updated daily)</summary>
+<br />
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-596%20hrs%2052%20mins-blue?style=flat)
@@ -224,24 +208,4 @@ HTML                     1 repo              ░░░░░░░░░░░�
  Last Updated on 15/11/2026 23:06:11 UTC
 <!--END_SECTION:waka-->
 
----
-
-## 🔗 Connect With Me
-
-<p align="left">
-  <a href="https://kingslayerrq.github.io" target="_blank" rel="noopener noreferrer">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/globe.svg" alt="portfolio" height="30" width="30" />
-  </a>
-  <a href="https://discord.gg/AYghsyBX" target="_blank" rel="noopener noreferrer">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord" height="30" width="30" />
-  </a>
-  <a href="mailto:rq2014@nyu.edu" target="_blank" rel="noopener noreferrer">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/mail.svg" alt="email" height="30" width="30" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <em>⭐ If you find any of my projects interesting, feel free to star them and reach out!</em>
-</p>
+</details>
