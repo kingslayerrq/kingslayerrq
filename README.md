@@ -96,7 +96,7 @@ A full-stack platform for publishing and discovering games: React client, Expres
 <br />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-613%20hrs%2049%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-613%20hrs%2058%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-103%20hrs%2059%20mins-blue?style=flat)
 
@@ -104,9 +104,9 @@ A full-stack platform for publishing and discovering games: React client, Expres
 
 **🐱 My GitHub Data** 
 
-> 📦 806.3 kB Used in GitHub's Storage 
+> 📦 806.4 kB Used in GitHub's Storage 
  > 
-> 🏆 866 Contributions in the Year 2026
+> 🏆 872 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -117,21 +117,21 @@ A full-stack platform for publishing and discovering games: React client, Expres
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1144 commits        ██████░░░░░░░░░░░░░░░░░░░   23.47 % 
-🌆 Daytime                1381 commits        ███████░░░░░░░░░░░░░░░░░░   28.33 % 
-🌃 Evening                1938 commits        ██████████░░░░░░░░░░░░░░░   39.76 % 
-🌙 Night                  411 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 % 
+🌞 Morning                1150 commits        ██████░░░░░░░░░░░░░░░░░░░   23.57 % 
+🌆 Daytime                1381 commits        ███████░░░░░░░░░░░░░░░░░░   28.30 % 
+🌃 Evening                1938 commits        ██████████░░░░░░░░░░░░░░░   39.71 % 
+🌙 Night                  411 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   851 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.46 % 
-Tuesday                  472 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
-Wednesday                602 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.35 % 
-Thursday                 992 commits         █████░░░░░░░░░░░░░░░░░░░░   20.35 % 
-Friday                   717 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
-Saturday                 600 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.31 % 
-Sunday                   640 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.13 % 
+Monday                   851 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.44 % 
+Tuesday                  472 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.67 % 
+Wednesday                602 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.34 % 
+Thursday                 992 commits         █████░░░░░░░░░░░░░░░░░░░░   20.33 % 
+Friday                   717 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.69 % 
+Saturday                 606 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.42 % 
+Sunday                   640 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.11 % 
 ```
 
 
@@ -141,53 +141,53 @@ Sunday                   640 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Markdown                 5 hrs 27 mins       ██████░░░░░░░░░░░░░░░░░░░   25.63 % 
-C++                      5 hrs 10 mins       ██████░░░░░░░░░░░░░░░░░░░   24.30 % 
-Python                   3 hrs 24 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.02 % 
-C#                       2 hrs 29 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.70 % 
-Text                     1 hr 18 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.15 % 
+C++                      5 hrs 10 mins       ███████░░░░░░░░░░░░░░░░░░   29.69 % 
+Markdown                 4 hrs 20 mins       ██████░░░░░░░░░░░░░░░░░░░   24.91 % 
+C#                       2 hrs 29 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.30 % 
+Python                   1 hr 58 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.28 % 
+Text                     1 hr 18 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 % 
 
 🔥 Editors: 
-Claude Code              11 hrs 43 mins      ██████████████░░░░░░░░░░░   54.98 % 
-VS Code                  7 hrs 56 mins       █████████░░░░░░░░░░░░░░░░   37.23 % 
-Rider                    1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.72 % 
-Copilot CLI              9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
-Copilot                  4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
+Claude Code              9 hrs 10 mins       █████████████░░░░░░░░░░░░   52.58 % 
+VS Code                  6 hrs 36 mins       █████████░░░░░░░░░░░░░░░░   37.91 % 
+Rider                    1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 % 
+Copilot CLI              9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
+Copilot                  4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
 
 🐱‍💻 Projects: 
-rq23-assignments         4 hrs 30 mins       █████░░░░░░░░░░░░░░░░░░░░   21.15 % 
-Heritage                 4 hrs 16 mins       █████░░░░░░░░░░░░░░░░░░░░   20.05 % 
-2D                       3 hrs 28 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.32 % 
-Discord                  2 hrs 54 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.62 % 
-scratch-2026-11-14-ffa9ef1 hr 47 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 % 
+rq23-assignments         4 hrs 30 mins       ██████░░░░░░░░░░░░░░░░░░░   25.84 % 
+2D                       3 hrs 28 mins       █████░░░░░░░░░░░░░░░░░░░░   19.94 % 
+Discord                  2 hrs 54 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.64 % 
+Blank                    1 hr 29 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 % 
+scratch-2026-11-14-ffa9ef1 hr 22 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
 
 💻 Operating System: 
-Windows                  18 hrs 32 mins      ██████████████████████░░░   86.98 % 
-Mac                      2 hrs 46 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.02 % 
+Windows                  14 hrs 40 mins      █████████████████████░░░░   84.10 % 
+Mac                      2 hrs 46 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.90 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 16 hrs 42 mins (78.39%)
+⏱ AI Coding Time: 12 hrs 50 mins (73.6%)
 
-✍️ 23,624 lines written by AI, 319 lines written by hand (98.67% AI-written)
+✍️ 18,020 lines written by AI, 319 lines written by hand (98.26% AI-written)
 
-🔤 8,680,676 Input Tokens, 1,973,366 Output Tokens
+🔤 6,750,361 Input Tokens, 1,476,431 Output Tokens
 
-💵 $369.40 Estimated AI Cost This Week
+💵 $231.88 Estimated AI Cost This Week
 
-🧠 50 AI Sessions, 167 AI Prompts
+🧠 35 AI Sessions, 131 AI Prompts
 
-Fable                    13,669 lines        █████████████░░░░░░░░░░░░   53.79 % 
-GPT                      10,471 lines        ██████████░░░░░░░░░░░░░░░   41.21 % 
-Opus                     1,271 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
+Fable                    12,895 lines        █████████████████░░░░░░░░   66.09 % 
+GPT                      5,607 lines         ███████░░░░░░░░░░░░░░░░░░   28.74 % 
+Opus                     1,010 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   05.18 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.67% of written lines came from AI
-📄 Detailed Prompter — average 863 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 1.59% of changed lines were hand-edited
+🤖 AI-Driven — 98.26% of written lines came from AI
+📄 Detailed Prompter — average 618 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 2.06% of changed lines were hand-edited
 ```
 
 **I Mostly Code in C#** 
@@ -207,7 +207,7 @@ HTML                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kingslayerrq/kingslayerrq/main/assets/bar_graph.png)
 
 
- Last Updated on 21/11/2026 00:08:48 UTC
+ Last Updated on 21/11/2026 23:34:31 UTC
 <!--END_SECTION:waka-->
 
 </details>
