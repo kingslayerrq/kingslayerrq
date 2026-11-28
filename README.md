@@ -96,17 +96,17 @@ A full-stack platform for publishing and discovering games: React client, Expres
 <br />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-617%20hrs%2049%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-618%20hrs%2041%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-105%20hrs%204%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-105%20hrs%2029%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 806.6 kB Used in GitHub's Storage 
+> 📦 806.7 kB Used in GitHub's Storage 
  > 
-> 🏆 916 Contributions in the Year 2026
+> 🏆 924 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -117,21 +117,21 @@ A full-stack platform for publishing and discovering games: React client, Expres
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1196 commits        ██████░░░░░░░░░░░░░░░░░░░   23.92 % 
-🌆 Daytime                1420 commits        ███████░░░░░░░░░░░░░░░░░░   28.41 % 
-🌃 Evening                1958 commits        ██████████░░░░░░░░░░░░░░░   39.17 % 
-🌙 Night                  425 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 % 
+🌞 Morning                1204 commits        ██████░░░░░░░░░░░░░░░░░░░   24.05 % 
+🌆 Daytime                1420 commits        ███████░░░░░░░░░░░░░░░░░░   28.36 % 
+🌃 Evening                1958 commits        ██████████░░░░░░░░░░░░░░░   39.11 % 
+🌙 Night                  425 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.49 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   900 commits         ████░░░░░░░░░░░░░░░░░░░░░   18.00 % 
-Tuesday                  483 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.66 % 
-Wednesday                619 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.38 % 
-Thursday                 1011 commits        █████░░░░░░░░░░░░░░░░░░░░   20.22 % 
-Friday                   723 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.46 % 
-Saturday                 609 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.18 % 
-Sunday                   654 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.08 % 
+Monday                   900 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.97 % 
+Tuesday                  483 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.65 % 
+Wednesday                619 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.36 % 
+Thursday                 1011 commits        █████░░░░░░░░░░░░░░░░░░░░   20.19 % 
+Friday                   731 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.60 % 
+Saturday                 609 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.16 % 
+Sunday                   654 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.06 % 
 ```
 
 
@@ -141,47 +141,47 @@ Sunday                   654 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-C++                      4 hrs 24 mins       ████████████████████░░░░░   78.77 % 
-Other                    44 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.23 % 
-Makefile                 10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
-JSON                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
-Markdown                 6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
+C++                      4 hrs 29 mins       ████████████████████░░░░░   79.91 % 
+Other                    44 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.17 % 
+JSON                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
+Makefile                 7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
+Markdown                 6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 28 mins       ████████████████████░░░░░   79.98 % 
-Claude Code              1 hr 7 mins         █████░░░░░░░░░░░░░░░░░░░░   20.02 % 
+VS Code                  4 hrs 29 mins       ████████████████████░░░░░   79.79 % 
+Claude Code              1 hr 8 mins         █████░░░░░░░░░░░░░░░░░░░░   20.21 % 
 
 🐱‍💻 Projects: 
-rq23-assignments         4 hrs 42 mins       █████████████████████░░░░   84.12 % 
-scratch-2026-11-23-0c0ea838 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.42 % 
-scratch-2026-11-25-da5de68 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
-scratch-2026-11-24-cab91b6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
+rq23-assignments         4 hrs 44 mins       █████████████████████░░░░   84.20 % 
+scratch-2026-11-23-0c0ea838 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.36 % 
+scratch-2026-11-25-da5de68 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
+scratch-2026-11-24-cab91b6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
 
 💻 Operating System: 
-Mac                      5 hrs 35 mins       █████████████████████████   100.00 % 
+Mac                      5 hrs 37 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 30 mins (26.84%)
+⏱ AI Coding Time: 1 hr 31 mins (27.07%)
 
-✍️ 56 lines written by AI, 394 lines written by hand (12.44% AI-written)
+✍️ 56 lines written by AI, 404 lines written by hand (12.17% AI-written)
 
-🔤 350,193 Input Tokens, 88,556 Output Tokens
+🔤 425,810 Input Tokens, 90,508 Output Tokens
 
-💵 $20.25 Estimated AI Cost This Week
+💵 $20.97 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 21 AI Prompts
+🧠 5 AI Sessions, 22 AI Prompts
 
 Fable                    76 lines            ████████████████████░░░░░   78.35 % 
 GPT                      21 lines            █████░░░░░░░░░░░░░░░░░░░░   21.65 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 12.44% of written lines came from AI
-📝 Concise Prompter — average 119 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🔍 Hands-On Reviewer — 89.04% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 12.17% of written lines came from AI
+📝 Concise Prompter — average 116 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🔍 Hands-On Reviewer — 89.41% of changed lines were hand-edited
 ```
 
 **I Mostly Code in C#** 
@@ -201,7 +201,7 @@ HTML                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kingslayerrq/kingslayerrq/main/assets/bar_graph.png)
 
 
- Last Updated on 27/11/2026 01:55:16 UTC
+ Last Updated on 28/11/2026 01:36:58 UTC
 <!--END_SECTION:waka-->
 
 </details>
